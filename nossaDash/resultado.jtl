@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1637813977168,3931,www.correios.com.br,200,OK,Grupo de Usuários 1-259,text,true,,109494,122,300,300,https://www.correios.com.br/,1318,0,1244
+1637813977224,4344,www.correios.com.br,200,OK,Grupo de Usuários 1-283,text,true,,109496,122,300,300,https://www.correios.com.br/,1959,0,1488
+1637813976642,5227,www.correios.com.br,200,OK,Grupo de Usuários 1-72,text,true,,109494,122,300,300,https://www.correios.com.br/,2293,0,2122
+1637813977173,4718,www.correios.com.br,200,OK,Grupo de Usuários 1-263,text,true,,109496,122,300,300,https://www.correios.com.br/,2724,0,2376
+1637813977157,4801,www.correios.com.br,200,OK,Grupo de Usuários 1-257,text,true,,109494,122,300,300,https://www.correios.com.br/,2212,0,1954
+1637813977040,4929,www.correios.com.br,200,OK,Grupo de Usuários 1-222,text,true,,109496,122,300,300,https://www.correios.com.br/,1807,0,1370
+1637813976645,5327,www.correios.com.br,200,OK,Grupo de Usuários 1-53,text,true,,109494,122,300,300,https://www.correios.com.br/,2780,0,2502
+1637813976644,5432,www.correios.com.br,200,OK,Grupo de Usuários 1-33,text,true,,109494,122,300,300,https://www.correios.com.br/,2660,0,2417
+1637813976754,5358,www.correios.com.br,200,OK,Grupo de Usuários 1-127,text,true,,109494,122,300,300,https://www.correios.com.br/,3168,0,2795
+1637813977005,5114,www.correios.com.br,200,OK,Grupo de Usuários 1-211,text,true,,109496,122,300,300,https://www.correios.com.br/,1535,0,1431
+1637813977231,4936,www.correios.com.br,200,OK,Grupo de Usuários 1-285,text,true,,109496,122,300,300,https://www.correios.com.br/,2624,0,2278
+1637813976874,5391,www.correios.com.br,200,OK,Grupo de Usuários 1-167,text,true,,109496,122,300,300,https://www.correios.com.br/,2430,0,2187
+1637813977207,5087,www.correios.com.br,200,OK,Grupo de Usuários 1-277,text,true,,109494,122,300,300,https://www.correios.com.br/,1759,0,1385
+1637813977235,5101,www.correios.com.br,200,OK,Grupo de Usuários 1-286,text,true,,109496,122,300,300,https://www.correios.com.br/,3066,0,2203
+1637813976642,5727,www.correios.com.br,200,OK,Grupo de Usuários 1-48,text,true,,109494,122,300,300,https://www.correios.com.br/,3115,0,2369
+1637813976848,5536,www.correios.com.br,200,OK,Grupo de Usuários 1-158,text,true,,109496,122,300,300,https://www.correios.com.br/,1800,0,1713
+1637813976645,5755,www.correios.com.br,200,OK,Grupo de Usuários 1-23,text,true,,109496,122,300,300,https://www.correios.com.br/,2433,0,2258
+1637813976719,5787,www.correios.com.br,200,OK,Grupo de Usuários 1-112,text,true,,109496,122,300,300,https://www.correios.com.br/,2698,0,2428
+1637813977051,5478,www.correios.com.br,200,OK,Grupo de Usuários 1-225,text,true,,109496,122,300,300,https://www.correios.com.br/,2757,0,2439
+1637813977172,5423,www.correios.com.br,200,OK,Grupo de Usuários 1-260,text,true,,109496,122,300,300,https://www.correios.com.br/,1431,0,1335
+1637813976642,6106,www.correios.com.br,200,OK,Grupo de Usuários 1-61,text,true,,109494,122,300,300,https://www.correios.com.br/,3489,0,2298
+1637813976647,6184,www.correios.com.br,200,OK,Grupo de Usuários 1-12,text,true,,109496,122,300,300,https://www.correios.com.br/,2320,0,1970
+1637813976645,6326,www.correios.com.br,200,OK,Grupo de Usuários 1-13,text,true,,109494,122,300,300,https://www.correios.com.br/,2487,0,2306
+1637813976872,6249,www.correios.com.br,200,OK,Grupo de Usuários 1-165,text,true,,109496,122,300,300,https://www.correios.com.br/,2188,0,2029
+1637813976644,6522,www.correios.com.br,200,OK,Grupo de Usuários 1-7,text,true,,109496,122,300,300,https://www.correios.com.br/,2336,0,2208
+1637813977095,6071,www.correios.com.br,200,OK,Grupo de Usuários 1-240,text,true,,109494,122,300,300,https://www.correios.com.br/,2669,0,1931
+1637813976735,6489,www.correios.com.br,200,OK,Grupo de Usuários 1-119,text,true,,109494,122,300,300,https://www.correios.com.br/,2954,0,2647
+1637813977039,6190,www.correios.com.br,200,OK,Grupo de Usuários 1-221,text,true,,109496,122,300,300,https://www.correios.com.br/,3614,0,2021
+1637813976638,6605,www.correios.com.br,200,OK,Grupo de Usuários 1-76,text,true,,109494,122,300,300,https://www.correios.com.br/,2373,0,2222
+1637813976643,6601,www.correios.com.br,200,OK,Grupo de Usuários 1-47,text,true,,109496,122,300,300,https://www.correios.com.br/,3697,0,2823
+1637813976644,6769,www.correios.com.br,200,OK,Grupo de Usuários 1-60,text,true,,109496,122,300,300,https://www.correios.com.br/,3947,0,2417
+1637813976979,6449,www.correios.com.br,200,OK,Grupo de Usuários 1-202,text,true,,109496,122,300,300,https://www.correios.com.br/,4825,0,4068
+1637813977063,6395,www.correios.com.br,200,OK,Grupo de Usuários 1-228,text,true,,109496,122,300,300,https://www.correios.com.br/,2319,0,2048
+1637813977200,6292,www.correios.com.br,200,OK,Grupo de Usuários 1-274,text,true,,109496,122,300,300,https://www.correios.com.br/,3878,0,2304
+1637813976814,6702,www.correios.com.br,200,OK,Grupo de Usuários 1-145,text,true,,109494,122,300,300,https://www.correios.com.br/,1779,0,1676
+1637813976801,6742,www.correios.com.br,200,OK,Grupo de Usuários 1-138,text,true,,109496,122,300,300,https://www.correios.com.br/,1899,0,1790
+1637813976951,6607,www.correios.com.br,200,OK,Grupo de Usuários 1-193,text,true,,109496,122,300,300,https://www.correios.com.br/,2337,0,2091
+1637813976803,6842,www.correios.com.br,200,OK,Grupo de Usuários 1-141,text,true,,109496,122,300,300,https://www.correios.com.br/,4143,0,3243
+1637813976840,6825,www.correios.com.br,200,OK,Grupo de Usuários 1-155,text,true,,109496,122,300,300,https://www.correios.com.br/,4352,0,2007
+1637813976643,7042,www.correios.com.br,200,OK,Grupo de Usuários 1-89,text,true,,109496,122,300,300,https://www.correios.com.br/,2995,0,2723
+1637813976661,7032,www.correios.com.br,200,OK,Grupo de Usuários 1-10,text,true,,109494,122,300,300,https://www.correios.com.br/,2041,0,1931
+1637813976645,7074,www.correios.com.br,200,OK,Grupo de Usuários 1-55,text,true,,109496,122,300,300,https://www.correios.com.br/,4509,0,3950
+1637813976645,7249,www.correios.com.br,200,OK,Grupo de Usuários 1-58,text,true,,109496,122,300,300,https://www.correios.com.br/,4080,0,3236
+1637813977019,6923,www.correios.com.br,200,OK,Grupo de Usuários 1-215,text,true,,109494,122,300,300,https://www.correios.com.br/,3353,0,2769
+1637813976740,7305,www.correios.com.br,200,OK,Grupo de Usuários 1-122,text,true,,109496,122,300,300,https://www.correios.com.br/,3635,0,3285
+1637813976641,7453,www.correios.com.br,200,OK,Grupo de Usuários 1-50,text,true,,109496,122,300,300,https://www.correios.com.br/,3182,0,2402
+1637813976925,7269,www.correios.com.br,200,OK,Grupo de Usuários 1-181,text,true,,109494,122,300,300,https://www.correios.com.br/,3470,0,2596
+1637813976959,7332,www.correios.com.br,200,OK,Grupo de Usuários 1-195,text,true,,109494,122,300,300,https://www.correios.com.br/,3015,0,1486
+1637813976777,7549,www.correios.com.br,200,OK,Grupo de Usuários 1-132,text,true,,109496,122,300,300,https://www.correios.com.br/,3415,0,1868
+1637813977084,7242,www.correios.com.br,200,OK,Grupo de Usuários 1-237,text,true,,109494,122,300,300,https://www.correios.com.br/,1824,0,1661
+1637813976644,7688,www.correios.com.br,200,OK,Grupo de Usuários 1-44,text,true,,109496,122,300,300,https://www.correios.com.br/,2801,0,2495
+1637813976682,7679,www.correios.com.br,200,OK,Grupo de Usuários 1-99,text,true,,109496,122,300,300,https://www.correios.com.br/,3651,0,2781
+1637813977106,7282,www.correios.com.br,200,OK,Grupo de Usuários 1-244,text,true,,109496,122,300,300,https://www.correios.com.br/,2671,0,2360
+1637813977092,7300,www.correios.com.br,200,OK,Grupo de Usuários 1-239,text,true,,109496,122,300,300,https://www.correios.com.br/,2577,0,2289
+1637813976634,7815,www.correios.com.br,200,OK,Grupo de Usuários 1-26,text,true,,109496,122,300,300,https://www.correios.com.br/,3037,0,2076
+1637813976645,7860,www.correios.com.br,200,OK,Grupo de Usuários 1-39,text,true,,109494,122,300,300,https://www.correios.com.br/,4456,0,2319
+1637813976647,7893,www.correios.com.br,200,OK,Grupo de Usuários 1-82,text,true,,109494,122,300,300,https://www.correios.com.br/,4878,0,2379
+1637813976995,7579,www.correios.com.br,200,OK,Grupo de Usuários 1-207,text,true,,109496,122,300,300,https://www.correios.com.br/,4748,0,3671
+1637813976648,7932,www.correios.com.br,200,OK,Grupo de Usuários 1-34,text,true,,109494,122,300,300,https://www.correios.com.br/,4818,0,2920
+1637813976706,7951,www.correios.com.br,200,OK,Grupo de Usuários 1-107,text,true,,109496,122,300,300,https://www.correios.com.br/,4182,0,1939
+1637813976643,8070,www.correios.com.br,200,OK,Grupo de Usuários 1-83,text,true,,109494,122,300,300,https://www.correios.com.br/,4967,0,2053
+1637813976651,8066,www.correios.com.br,200,OK,Grupo de Usuários 1-35,text,true,,109496,122,300,300,https://www.correios.com.br/,4098,0,2653
+1637813976655,8068,www.correios.com.br,200,OK,Grupo de Usuários 1-27,text,true,,109496,122,300,300,https://www.correios.com.br/,4023,0,3152
+1637813977027,7711,www.correios.com.br,200,OK,Grupo de Usuários 1-218,text,true,,109496,122,300,300,https://www.correios.com.br/,2786,0,2466
+1637813981871,2890,www.gov.com.br,200,OK,Grupo de Usuários 1-72,text,true,,169278,231,300,300,https://www.gov.br/pt-br,671,0,506
+1637813981871,671,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-72,,true,,820,113,300,300,https://www.gov.br/,671,0,506
+1637813982542,2219,www.gov.com.br-1,200,OK,Grupo de Usuários 1-72,text,true,,168458,118,300,300,https://www.gov.br/pt-br,174,0,0
+1637813976645,8185,www.correios.com.br,200,OK,Grupo de Usuários 1-36,text,true,,109496,122,299,299,https://www.correios.com.br/,1902,0,1801
+1637813977137,7710,www.correios.com.br,200,OK,Grupo de Usuários 1-249,text,true,,109496,122,299,299,https://www.correios.com.br/,4662,0,2372
+1637813976776,8074,www.correios.com.br,200,OK,Grupo de Usuários 1-130,text,true,,109494,122,299,299,https://www.correios.com.br/,2559,0,2301
+1637813977251,7650,www.correios.com.br,200,OK,Grupo de Usuários 1-291,text,true,,109494,122,299,299,https://www.correios.com.br/,4896,0,1239
+1637813977011,7956,www.correios.com.br,200,OK,Grupo de Usuários 1-213,text,true,,109494,122,299,299,https://www.correios.com.br/,4066,0,2482
+1637813982833,2134,www.gov.com.br,200,OK,Grupo de Usuários 1-12,text,true,,169281,231,299,299,https://www.gov.br/pt-br,564,0,423
+1637813982833,564,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-12,,true,,818,113,299,299,https://www.gov.br/,564,0,423
+1637813983397,1570,www.gov.com.br-1,200,OK,Grupo de Usuários 1-12,text,true,,168463,118,299,299,https://www.gov.br/pt-br,177,0,0
+1637813977277,7705,www.correios.com.br,200,OK,Grupo de Usuários 1-300,text,true,,109494,122,298,298,https://www.correios.com.br/,4019,0,1749
+1637813976963,8019,www.correios.com.br,200,OK,Grupo de Usuários 1-197,text,true,,109496,122,298,298,https://www.correios.com.br/,3180,0,2586
+1637813977179,7834,www.correios.com.br,200,OK,Grupo de Usuários 1-266,text,true,,109496,122,298,298,https://www.correios.com.br/,1366,0,1274
+1637813976642,8371,www.correios.com.br,200,OK,Grupo de Usuários 1-65,text,true,,109494,122,298,298,https://www.correios.com.br/,4075,0,2906
+1637813976998,8017,www.correios.com.br,200,OK,Grupo de Usuários 1-209,text,true,,109494,122,298,298,https://www.correios.com.br/,1633,0,1534
+1637813976645,8415,www.correios.com.br,200,OK,Grupo de Usuários 1-31,text,true,,109496,122,298,298,https://www.correios.com.br/,2557,0,2352
+1637813976632,8457,www.correios.com.br,200,OK,Grupo de Usuários 1-22,text,true,,109496,122,298,298,https://www.correios.com.br/,4606,0,2920
+1637813976654,8540,www.correios.com.br,200,OK,Grupo de Usuários 1-4,text,true,,109494,122,298,298,https://www.correios.com.br/,4306,0,2812
+1637813977139,8085,www.correios.com.br,200,OK,Grupo de Usuários 1-255,text,true,,109496,122,298,298,https://www.correios.com.br/,1426,0,1317
+1637813977022,8223,www.correios.com.br,200,OK,Grupo de Usuários 1-216,text,true,,109494,122,298,298,https://www.correios.com.br/,1475,0,1409
+1637813977013,8235,www.correios.com.br,200,OK,Grupo de Usuários 1-214,text,true,,109494,122,298,298,https://www.correios.com.br/,3218,0,1581
+1637813976994,8261,www.correios.com.br,200,OK,Grupo de Usuários 1-203,text,true,,109494,122,298,298,https://www.correios.com.br/,3594,0,2048
+1637813976826,8433,www.correios.com.br,200,OK,Grupo de Usuários 1-150,text,true,,109496,122,298,298,https://www.correios.com.br/,2172,0,2032
+1637813976698,8579,www.correios.com.br,200,OK,Grupo de Usuários 1-104,text,true,,109496,122,298,298,https://www.correios.com.br/,4817,0,3422
+1637813976692,8683,www.correios.com.br,200,OK,Grupo de Usuários 1-102,text,true,,109496,122,298,298,https://www.correios.com.br/,3478,0,3189
+1637813976929,8482,www.correios.com.br,200,OK,Grupo de Usuários 1-185,text,true,,109494,122,298,298,https://www.correios.com.br/,2216,0,2037
+1637813976661,8815,www.correios.com.br,200,OK,Grupo de Usuários 1-67,text,true,,109496,122,298,298,https://www.correios.com.br/,3728,0,2860
+1637813976892,8623,www.correios.com.br,200,OK,Grupo de Usuários 1-171,text,true,,109494,122,298,298,https://www.correios.com.br/,4717,0,2059
+1637813977176,8364,www.correios.com.br,200,OK,Grupo de Usuários 1-265,text,true,,109496,122,298,298,https://www.correios.com.br/,4632,0,3620
+1637813976749,8809,www.correios.com.br,200,OK,Grupo de Usuários 1-126,text,true,,109494,122,298,298,https://www.correios.com.br/,4991,0,3976
+1637813976778,8818,www.correios.com.br,200,OK,Grupo de Usuários 1-134,text,true,,109494,122,298,298,https://www.correios.com.br/,3577,0,2713
+1637813977160,8577,www.correios.com.br,200,OK,Grupo de Usuários 1-258,text,true,,109496,122,298,298,https://www.correios.com.br/,4261,0,1915
+1637813976647,9097,www.correios.com.br,200,OK,Grupo de Usuários 1-25,text,true,,109496,122,298,298,https://www.correios.com.br/,5657,0,1974
+1637813977077,8697,www.correios.com.br,200,OK,Grupo de Usuários 1-234,text,true,,109496,122,298,298,https://www.correios.com.br/,5729,0,1922
+1637813976991,8786,www.correios.com.br,200,OK,Grupo de Usuários 1-199,text,true,,109494,122,298,298,https://www.correios.com.br/,3124,0,2071
+1637813977109,8692,www.correios.com.br,200,OK,Grupo de Usuários 1-245,text,true,,109496,122,298,298,https://www.correios.com.br/,1917,0,1751
+1637813977011,8828,www.correios.com.br,200,OK,Grupo de Usuários 1-212,text,true,,109496,122,298,298,https://www.correios.com.br/,3217,0,1550
+1637813976671,9173,www.correios.com.br,200,OK,Grupo de Usuários 1-95,text,true,,109496,122,298,298,https://www.correios.com.br/,3366,0,2778
+1637813976976,8955,www.correios.com.br,200,OK,Grupo de Usuários 1-198,text,true,,109496,122,298,298,https://www.correios.com.br/,4440,0,2473
+1637813976786,9162,www.correios.com.br,200,OK,Grupo de Usuários 1-137,text,true,,109494,122,298,298,https://www.correios.com.br/,5291,0,3275
+1637813976913,9065,www.correios.com.br,200,OK,Grupo de Usuários 1-177,text,true,,109496,122,298,298,https://www.correios.com.br/,4792,0,2038
+1637813976809,9237,www.correios.com.br,200,OK,Grupo de Usuários 1-142,text,true,,109494,122,298,298,https://www.correios.com.br/,6082,0,3974
+1637813977189,8968,www.correios.com.br,200,OK,Grupo de Usuários 1-268,text,true,,109494,122,298,298,https://www.correios.com.br/,3608,0,1353
+1637813977198,8975,www.correios.com.br,200,OK,Grupo de Usuários 1-273,text,true,,109494,122,298,298,https://www.correios.com.br/,4208,0,3399
+1637813976872,9322,www.correios.com.br,200,OK,Grupo de Usuários 1-166,text,true,,109494,122,298,298,https://www.correios.com.br/,2212,0,2044
+1637813976632,9620,www.correios.com.br,200,OK,Grupo de Usuários 1-16,text,true,,109496,122,298,298,https://www.correios.com.br/,4570,0,1786
+1637813977222,9093,www.correios.com.br,200,OK,Grupo de Usuários 1-282,text,true,,109494,122,298,298,https://www.correios.com.br/,1499,0,1391
+1637813977274,9074,www.correios.com.br,200,OK,Grupo de Usuários 1-298,text,true,,109494,122,298,298,https://www.correios.com.br/,3371,0,1737
+1637813976777,9577,www.correios.com.br,200,OK,Grupo de Usuários 1-133,text,true,,109494,122,298,298,https://www.correios.com.br/,4579,0,2727
+1637813977196,9235,www.correios.com.br,200,OK,Grupo de Usuários 1-272,text,true,,109494,122,298,298,https://www.correios.com.br/,3892,0,2994
+1637813977184,9255,www.correios.com.br,200,OK,Grupo de Usuários 1-267,text,true,,109494,122,298,298,https://www.correios.com.br/,2769,0,1958
+1637813976991,9488,www.correios.com.br,200,OK,Grupo de Usuários 1-200,text,true,,109494,122,298,298,https://www.correios.com.br/,1919,0,1754
+1637813977241,9267,www.correios.com.br,200,OK,Grupo de Usuários 1-289,text,true,,109496,122,298,298,https://www.correios.com.br/,4558,0,1213
+1637813976821,9705,www.correios.com.br,200,OK,Grupo de Usuários 1-146,text,true,,109494,122,298,298,https://www.correios.com.br/,4898,0,3299
+1637813976643,9922,www.correios.com.br,200,OK,Grupo de Usuários 1-84,text,true,,109494,122,298,298,https://www.correios.com.br/,2433,0,2258
+1637813977140,9429,www.correios.com.br,200,OK,Grupo de Usuários 1-250,text,true,,109496,122,298,298,https://www.correios.com.br/,2409,0,2117
+1637813982113,4479,www.gov.com.br,200,OK,Grupo de Usuários 1-127,text,true,,169276,231,298,298,https://www.gov.br/pt-br,626,0,457
+1637813982113,626,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-127,,true,,818,113,298,298,https://www.gov.br/,626,0,457
+1637813982740,3852,www.gov.com.br-1,200,OK,Grupo de Usuários 1-127,text,true,,168458,118,298,298,https://www.gov.br/pt-br,407,0,0
+1637813977147,9496,www.correios.com.br,200,OK,Grupo de Usuários 1-253,text,true,,109496,122,297,297,https://www.correios.com.br/,4243,0,1913
+1637813976643,10030,www.correios.com.br,200,OK,Grupo de Usuários 1-57,text,true,,109496,122,297,297,https://www.correios.com.br/,3028,0,1888
+1637813976638,10128,www.correios.com.br,200,OK,Grupo de Usuários 1-21,text,true,,109494,122,297,297,https://www.correios.com.br/,1858,0,1786
+1637813977069,9708,www.correios.com.br,200,OK,Grupo de Usuários 1-230,text,true,,109494,122,297,297,https://www.correios.com.br/,4674,0,3051
+1637813976661,10135,www.correios.com.br,200,OK,Grupo de Usuários 1-62,text,true,,109494,122,297,297,https://www.correios.com.br/,3324,0,1953
+1637813976931,9884,www.correios.com.br,200,OK,Grupo de Usuários 1-186,text,true,,109494,122,297,297,https://www.correios.com.br/,4159,0,2590
+1637813976894,9933,www.correios.com.br,200,OK,Grupo de Usuários 1-173,text,true,,109496,122,297,297,https://www.correios.com.br/,6623,0,2024
+1637813976647,10182,www.correios.com.br,200,OK,Grupo de Usuários 1-63,text,true,,109494,122,297,297,https://www.correios.com.br/,3232,0,2414
+1637813976639,10195,www.correios.com.br,200,OK,Grupo de Usuários 1-71,text,true,,109494,122,297,297,https://www.correios.com.br/,3797,0,2913
+1637813977274,9584,www.correios.com.br,200,OK,Grupo de Usuários 1-299,text,true,,109496,122,297,297,https://www.correios.com.br/,3433,0,1723
+1637813977228,9696,www.correios.com.br,200,OK,Grupo de Usuários 1-284,text,true,,109494,122,297,297,https://www.correios.com.br/,1833,0,1419
+1637813976653,10323,www.correios.com.br,200,OK,Grupo de Usuários 1-52,text,true,,109496,122,297,297,https://www.correios.com.br/,2613,0,2389
+1637813976642,10409,www.correios.com.br,200,OK,Grupo de Usuários 1-1,text,true,,109494,122,297,297,https://www.correios.com.br/,2217,0,2059
+1637813976655,10423,www.correios.com.br,200,OK,Grupo de Usuários 1-15,text,true,,109494,122,297,297,https://www.correios.com.br/,4488,0,3656
+1637813976938,10151,www.correios.com.br,200,OK,Grupo de Usuários 1-187,text,true,,109496,122,297,297,https://www.correios.com.br/,3731,0,2566
+1637813976647,10442,www.correios.com.br,200,OK,Grupo de Usuários 1-81,text,true,,109496,122,297,297,https://www.correios.com.br/,1839,0,1764
+1637813984195,2953,www.gov.com.br,200,OK,Grupo de Usuários 1-181,text,true,,169276,231,297,297,https://www.gov.br/pt-br,866,0,670
+1637813984195,866,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-181,,true,,816,113,297,297,https://www.gov.br/,866,0,670
+1637813985061,2087,www.gov.com.br-1,200,OK,Grupo de Usuários 1-181,text,true,,168460,118,297,297,https://www.gov.br/pt-br,176,0,0
+1637813976645,10537,www.correios.com.br,200,OK,Grupo de Usuários 1-24,text,true,,109494,122,296,296,https://www.correios.com.br/,4767,0,3061
+1637813976641,10597,www.correios.com.br,200,OK,Grupo de Usuários 1-87,text,true,,109496,122,296,296,https://www.correios.com.br/,3386,0,2539
+1637813976880,10396,www.correios.com.br,200,OK,Grupo de Usuários 1-169,text,true,,109496,122,296,296,https://www.correios.com.br/,5353,0,3146
+1637813977100,10183,www.correios.com.br,200,OK,Grupo de Usuários 1-242,text,true,,109496,122,296,296,https://www.correios.com.br/,6525,0,1851
+1637813976674,10647,www.correios.com.br,200,OK,Grupo de Usuários 1-96,text,true,,109494,122,296,296,https://www.correios.com.br/,1920,0,1816
+1637813976661,10660,www.correios.com.br,200,OK,Grupo de Usuários 1-94,text,true,,109494,122,296,296,https://www.correios.com.br/,5358,0,2036
+1637813976702,10747,www.correios.com.br,200,OK,Grupo de Usuários 1-105,text,true,,109494,122,296,296,https://www.correios.com.br/,4167,0,2277
+1637813977022,10435,www.correios.com.br,200,OK,Grupo de Usuários 1-217,text,true,,109496,122,296,296,https://www.correios.com.br/,2959,0,1977
+1637813982387,5095,www.gov.com.br,200,OK,Grupo de Usuários 1-158,text,true,,169281,231,296,296,https://www.gov.br/pt-br,618,0,476
+1637813976774,10708,www.correios.com.br,200,OK,Grupo de Usuários 1-131,text,true,,109494,122,296,296,https://www.correios.com.br/,6839,0,6318
+1637813982387,618,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-158,,true,,818,113,296,296,https://www.gov.br/,618,0,476
+1637813983005,4477,www.gov.com.br-1,200,OK,Grupo de Usuários 1-158,text,true,,168463,118,296,296,https://www.gov.br/pt-br,410,0,0
+1637813976853,10636,www.correios.com.br,200,OK,Grupo de Usuários 1-159,text,true,,109494,122,295,295,https://www.correios.com.br/,5942,0,4852
+1637813976641,10870,www.correios.com.br,200,OK,Grupo de Usuários 1-75,text,true,,109494,122,295,295,https://www.correios.com.br/,2521,0,2326
+1637813976781,10735,www.correios.com.br,200,OK,Grupo de Usuários 1-136,text,true,,109494,122,295,295,https://www.correios.com.br/,3940,0,2280
+1637813976682,10871,www.correios.com.br,200,OK,Grupo de Usuários 1-98,text,true,,109496,122,295,295,https://www.correios.com.br/,1865,0,1753
+1637813976995,10564,www.correios.com.br,200,OK,Grupo de Usuários 1-204,text,true,,109494,122,295,295,https://www.correios.com.br/,2356,0,2047
+1637813976930,10696,www.correios.com.br,200,OK,Grupo de Usuários 1-184,text,true,,109496,122,295,295,https://www.correios.com.br/,3898,0,2049
+1637813976995,10690,www.correios.com.br,200,OK,Grupo de Usuários 1-205,text,true,,109494,122,295,295,https://www.correios.com.br/,4892,0,3911
+1637813976857,10886,www.correios.com.br,200,OK,Grupo de Usuários 1-161,text,true,,109494,122,295,295,https://www.correios.com.br/,4239,0,3731
+1637813976746,11026,www.correios.com.br,200,OK,Grupo de Usuários 1-125,text,true,,109496,122,295,295,https://www.correios.com.br/,6161,0,4149
+1637813976830,11042,www.correios.com.br,200,OK,Grupo de Usuários 1-149,text,true,,109494,122,295,295,https://www.correios.com.br/,4566,0,2121
+1637813977210,10679,www.correios.com.br,200,OK,Grupo de Usuários 1-278,text,true,,109494,122,295,295,https://www.correios.com.br/,2461,0,1726
+1637813976648,11249,www.correios.com.br,200,OK,Grupo de Usuários 1-9,text,true,,109496,122,295,295,https://www.correios.com.br/,4333,0,3156
+1637813976645,11298,www.correios.com.br,200,OK,Grupo de Usuários 1-8,text,true,,109494,122,295,295,https://www.correios.com.br/,5121,0,2955
+1637813976686,11282,www.correios.com.br,200,OK,Grupo de Usuários 1-100,text,true,,109494,122,295,295,https://www.correios.com.br/,3964,0,2313
+1637813976643,11367,www.correios.com.br,200,OK,Grupo de Usuários 1-68,text,true,,109494,122,295,295,https://www.correios.com.br/,3236,0,2894
+1637813982168,5846,www.gov.com.br,200,OK,Grupo de Usuários 1-285,text,true,,169276,231,295,295,https://www.gov.br/pt-br,892,0,477
+1637813982168,892,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-285,,true,,816,113,295,295,https://www.gov.br/,892,0,477
+1637813983061,4953,www.gov.com.br-1,200,OK,Grupo de Usuários 1-285,text,true,,168460,118,295,295,https://www.gov.br/pt-br,418,0,0
+1637813982507,5522,www.gov.com.br,200,OK,Grupo de Usuários 1-112,text,true,,169277,231,294,294,https://www.gov.br/pt-br,584,0,448
+1637813982507,584,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-112,,true,,820,113,294,294,https://www.gov.br/,584,0,448
+1637813983091,4938,www.gov.com.br-1,200,OK,Grupo de Usuários 1-112,text,true,,168457,118,294,294,https://www.gov.br/pt-br,1180,0,0
+1637813977270,10759,www.correios.com.br,200,OK,Grupo de Usuários 1-297,text,true,,109496,122,294,294,https://www.correios.com.br/,4119,0,1673
+1637813976681,11363,www.correios.com.br,200,OK,Grupo de Usuários 1-103,text,true,,109496,122,293,293,https://www.correios.com.br/,3048,0,2768
+1637813976821,11238,www.correios.com.br,200,OK,Grupo de Usuários 1-147,text,true,,109494,122,293,293,https://www.correios.com.br/,6056,0,5047
+1637813983168,4891,www.gov.com.br,200,OK,Grupo de Usuários 1-240,text,true,,169280,231,293,293,https://www.gov.br/pt-br,686,0,491
+1637813983168,686,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-240,,true,,820,113,293,293,https://www.gov.br/,686,0,491
+1637813983854,4205,www.gov.com.br-1,200,OK,Grupo de Usuários 1-240,text,true,,168460,118,293,293,https://www.gov.br/pt-br,654,0,0
+1637813976642,11433,www.correios.com.br,200,OK,Grupo de Usuários 1-29,text,true,,109496,122,292,292,https://www.correios.com.br/,3949,0,2299
+1637813976648,11427,www.correios.com.br,200,OK,Grupo de Usuários 1-2,text,true,,109496,122,292,292,https://www.correios.com.br/,4070,0,2413
+1637813976661,11465,www.correios.com.br,200,OK,Grupo de Usuários 1-85,text,true,,109496,122,292,292,https://www.correios.com.br/,4251,0,2829
+1637813976946,11180,www.correios.com.br,200,OK,Grupo de Usuários 1-191,text,true,,109496,122,292,292,https://www.correios.com.br/,2342,0,2096
+1637813976890,11236,www.correios.com.br,200,OK,Grupo de Usuários 1-172,text,true,,109496,122,292,292,https://www.correios.com.br/,2194,0,2011
+1637813976641,11613,www.correios.com.br,200,OK,Grupo de Usuários 1-66,text,true,,109496,122,292,292,https://www.correios.com.br/,5626,0,3032
+1637813977055,11289,www.correios.com.br,200,OK,Grupo de Usuários 1-226,text,true,,109496,122,292,292,https://www.correios.com.br/,3294,0,2435
+1637813977081,11297,www.correios.com.br,200,OK,Grupo de Usuários 1-235,text,true,,109496,122,292,292,https://www.correios.com.br/,4383,0,2428
+1637813976632,11757,www.correios.com.br,200,OK,Grupo de Usuários 1-74,text,true,,109496,122,292,292,https://www.correios.com.br/,3987,0,3360
+1637813977206,11207,www.correios.com.br,200,OK,Grupo de Usuários 1-276,text,true,,109494,122,292,292,https://www.correios.com.br/,4199,0,1504
+1637813984724,3697,www.gov.com.br,200,OK,Grupo de Usuários 1-27,text,true,,169280,231,292,292,https://www.gov.br/pt-br,1099,0,581
+1637813984724,1099,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-27,,true,,820,113,292,292,https://www.gov.br/,1099,0,581
+1637813985824,2597,www.gov.com.br-1,200,OK,Grupo de Usuários 1-27,text,true,,168460,118,292,292,https://www.gov.br/pt-br,221,0,0
+1637813977112,11340,www.correios.com.br,200,OK,Grupo de Usuários 1-246,text,true,,109496,122,291,291,https://www.correios.com.br/,4244,0,2378
+1637813977118,11337,www.correios.com.br,200,OK,Grupo de Usuários 1-248,text,true,,109494,122,291,291,https://www.correios.com.br/,4767,0,1832
+1637813976924,11557,www.correios.com.br,200,OK,Grupo de Usuários 1-183,text,true,,109496,122,291,291,https://www.correios.com.br/,3964,0,3296
+1637813976877,11612,www.correios.com.br,200,OK,Grupo de Usuários 1-168,text,true,,109496,122,291,291,https://www.correios.com.br/,5018,0,2427
+1637813976644,11855,www.correios.com.br,200,OK,Grupo de Usuários 1-80,text,true,,109496,122,291,291,https://www.correios.com.br/,4445,0,3547
+1637813976740,11784,www.correios.com.br,200,OK,Grupo de Usuários 1-121,text,true,,109496,122,291,291,https://www.correios.com.br/,7144,0,2964
+1637813976645,11912,www.correios.com.br,200,OK,Grupo de Usuários 1-5,text,true,,109496,122,291,291,https://www.correios.com.br/,5349,0,4378
+1637813977172,11390,www.correios.com.br,200,OK,Grupo de Usuários 1-261,text,true,,109494,122,291,291,https://www.correios.com.br/,5738,0,1808
+1637813976855,11711,www.correios.com.br,200,OK,Grupo de Usuários 1-160,text,true,,109496,122,291,291,https://www.correios.com.br/,6998,0,2063
+1637813977150,11465,www.correios.com.br,200,OK,Grupo de Usuários 1-254,text,true,,109496,122,291,291,https://www.correios.com.br/,1393,0,1285
+1637813977190,11483,www.correios.com.br,200,OK,Grupo de Usuários 1-270,text,true,,109496,122,291,291,https://www.correios.com.br/,1401,0,1291
+1637813977265,11423,www.correios.com.br,200,OK,Grupo de Usuários 1-296,text,true,,109494,122,291,291,https://www.correios.com.br/,3969,0,1733
+1637813976641,12113,www.correios.com.br,200,OK,Grupo de Usuários 1-88,text,true,,109494,122,291,291,https://www.correios.com.br/,4968,0,2296
+1637813985249,3529,www.gov.com.br,200,OK,Grupo de Usuários 1-214,text,true,,169278,231,291,291,https://www.gov.br/pt-br,883,0,668
+1637813985249,883,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-214,,true,,816,113,291,291,https://www.gov.br/,883,0,668
+1637813986132,2646,www.gov.com.br-1,200,OK,Grupo de Usuários 1-214,text,true,,168462,118,291,291,https://www.gov.br/pt-br,216,0,0
+1637813976823,11957,www.correios.com.br,200,OK,Grupo de Usuários 1-148,text,true,,109494,122,290,290,https://www.correios.com.br/,2608,0,2324
+1637813976642,12149,www.correios.com.br,200,OK,Grupo de Usuários 1-11,text,true,,109496,122,290,290,https://www.correios.com.br/,2962,0,1797
+1637813976882,11937,www.correios.com.br,200,OK,Grupo de Usuários 1-170,text,true,,109496,122,290,290,https://www.correios.com.br/,4729,0,2069
+1637813976688,12159,www.correios.com.br,200,OK,Grupo de Usuários 1-101,text,true,,109496,122,290,290,https://www.correios.com.br/,5637,0,5079
+1637813984095,4792,www.gov.com.br,200,OK,Grupo de Usuários 1-50,text,true,,169275,231,290,290,https://www.gov.br/pt-br,886,0,682
+1637813984095,886,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-50,,true,,818,113,290,290,https://www.gov.br/,886,0,682
+1637813984982,3905,www.gov.com.br-1,200,OK,Grupo de Usuários 1-50,text,true,,168457,118,290,290,https://www.gov.br/pt-br,185,0,0
+1637813976945,11953,www.correios.com.br,200,OK,Grupo de Usuários 1-189,text,true,,109494,122,289,289,https://www.correios.com.br/,5129,0,3033
+1637813977010,11906,www.correios.com.br,200,OK,Grupo de Usuários 1-210,text,true,,109496,122,289,289,https://www.correios.com.br/,2625,0,2356
+1637813976723,12205,www.correios.com.br,200,OK,Grupo de Usuários 1-114,text,true,,109494,122,289,289,https://www.correios.com.br/,6234,0,5265
+1637813977175,11800,www.correios.com.br,200,OK,Grupo de Usuários 1-264,text,true,,109494,122,289,289,https://www.correios.com.br/,2970,0,2329
+1637813976737,12246,www.correios.com.br,200,OK,Grupo de Usuários 1-120,text,true,,109496,122,289,289,https://www.correios.com.br/,5701,0,1754
+1637813977103,11919,www.correios.com.br,200,OK,Grupo de Usuários 1-243,text,true,,109494,122,289,289,https://www.correios.com.br/,4507,0,1860
+1637813977256,11825,www.correios.com.br,200,OK,Grupo de Usuários 1-293,text,true,,109496,122,289,289,https://www.correios.com.br/,2456,0,1306
+1637813985597,3516,www.gov.com.br,200,OK,Grupo de Usuários 1-134,text,true,,169283,231,289,289,https://www.gov.br/pt-br,911,0,674
+1637813985597,911,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-134,,true,,820,113,289,289,https://www.gov.br/,911,0,674
+1637813986508,2605,www.gov.com.br-1,200,OK,Grupo de Usuários 1-134,text,true,,168463,118,289,289,https://www.gov.br/pt-br,237,0,0
+1637813976653,12503,www.correios.com.br,200,OK,Grupo de Usuários 1-46,text,true,,109494,122,288,288,https://www.correios.com.br/,5646,0,2298
+1637813976775,12396,www.correios.com.br,200,OK,Grupo de Usuários 1-129,text,true,,109494,122,288,288,https://www.correios.com.br/,4294,0,2190
+1637813977243,11937,www.correios.com.br,200,OK,Grupo de Usuários 1-288,text,true,,109496,122,288,288,https://www.correios.com.br/,4147,0,1720
+1637813977203,11981,www.correios.com.br,200,OK,Grupo de Usuários 1-275,text,true,,109496,122,288,288,https://www.correios.com.br/,3140,0,1440
+1637813977061,12125,www.correios.com.br,200,OK,Grupo de Usuários 1-227,text,true,,109496,122,288,288,https://www.correios.com.br/,4971,0,1937
+1637813976867,12397,www.correios.com.br,200,OK,Grupo de Usuários 1-164,text,true,,109496,122,288,288,https://www.correios.com.br/,2683,0,2391
+1637813984902,4392,www.gov.com.br,200,OK,Grupo de Usuários 1-291,text,true,,169277,231,288,288,https://www.gov.br/pt-br,835,0,613
+1637813984902,835,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-291,,true,,820,113,288,288,https://www.gov.br/,835,0,613
+1637813985737,3557,www.gov.com.br-1,200,OK,Grupo de Usuários 1-291,text,true,,168457,118,288,288,https://www.gov.br/pt-br,218,0,0
+1637813976647,12660,www.correios.com.br,200,OK,Grupo de Usuários 1-18,text,true,,109494,122,287,287,https://www.correios.com.br/,5291,0,4339
+1637813976633,12674,www.correios.com.br,200,OK,Grupo de Usuários 1-49,text,true,,109496,122,287,287,https://www.correios.com.br/,2079,0,1788
+1637813984292,5024,www.gov.com.br,200,OK,Grupo de Usuários 1-195,text,true,,169238,231,287,287,https://www.gov.br/pt-br,837,0,646
+1637813984292,837,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-195,,true,,776,113,287,287,https://www.gov.br/,837,0,646
+1637813985129,4187,www.gov.com.br-1,200,OK,Grupo de Usuários 1-195,text,true,,168462,118,287,287,https://www.gov.br/pt-br,195,0,0
+1637813977150,12175,www.correios.com.br,200,OK,Grupo de Usuários 1-256,text,true,,109494,122,286,286,https://www.correios.com.br/,5855,0,1766
+1637813983694,5669,www.gov.com.br,200,OK,Grupo de Usuários 1-10,text,true,,169279,231,286,286,https://www.gov.br/pt-br,880,0,663
+1637813983694,880,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-10,,true,,818,113,286,286,https://www.gov.br/,880,0,663
+1637813984574,4789,www.gov.com.br-1,200,OK,Grupo de Usuários 1-10,text,true,,168461,118,286,286,https://www.gov.br/pt-br,219,0,0
+1637813983686,5690,www.gov.com.br,200,OK,Grupo de Usuários 1-89,text,true,,169278,231,285,285,https://www.gov.br/pt-br,1087,0,864
+1637813983686,1087,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-89,,true,,818,113,285,285,https://www.gov.br/,1087,0,864
+1637813984773,4603,www.gov.com.br-1,200,OK,Grupo de Usuários 1-89,text,true,,168460,118,285,285,https://www.gov.br/pt-br,189,0,0
+1637813977075,12317,www.correios.com.br,200,OK,Grupo de Usuários 1-233,text,true,,109496,122,284,284,https://www.correios.com.br/,3806,0,1876
+1637813983517,5932,www.gov.com.br,200,OK,Grupo de Usuários 1-145,text,true,,169277,231,284,284,https://www.gov.br/pt-br,1269,0,1039
+1637813983517,1269,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-145,,true,,820,113,284,284,https://www.gov.br/,1269,0,1039
+1637813984787,4662,www.gov.com.br-1,200,OK,Grupo de Usuários 1-145,text,true,,168457,118,284,284,https://www.gov.br/pt-br,194,0,0
+1637813976863,12632,www.correios.com.br,200,OK,Grupo de Usuários 1-163,text,true,,109496,122,283,283,https://www.correios.com.br/,5421,0,4659
+1637813977087,12437,www.correios.com.br,200,OK,Grupo de Usuários 1-236,text,true,,109496,122,283,283,https://www.correios.com.br/,4103,0,3261
+1637813977064,12466,www.correios.com.br,200,OK,Grupo de Usuários 1-229,text,true,,109496,122,283,283,https://www.correios.com.br/,5652,0,1887
+1637813985061,4529,www.gov.com.br,200,OK,Grupo de Usuários 1-31,text,true,,169280,231,283,283,https://www.gov.br/pt-br,856,0,630
+1637813985061,856,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-31,,true,,820,113,283,283,https://www.gov.br/,856,0,630
+1637813985918,3672,www.gov.com.br-1,200,OK,Grupo de Usuários 1-31,text,true,,168460,118,283,283,https://www.gov.br/pt-br,421,0,0
+1637813976996,12630,www.correios.com.br,200,OK,Grupo de Usuários 1-206,text,true,,109494,122,282,282,https://www.correios.com.br/,2255,0,2030
+1637813977193,12433,www.correios.com.br,200,OK,Grupo de Usuários 1-271,text,true,,109494,122,282,282,https://www.correios.com.br/,6411,0,5129
+1637813983943,5694,www.gov.com.br,200,OK,Grupo de Usuários 1-215,text,true,,169278,231,282,282,https://www.gov.br/pt-br,887,0,679
+1637813983943,887,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-215,,true,,818,113,282,282,https://www.gov.br/,887,0,679
+1637813984830,4807,www.gov.com.br-1,200,OK,Grupo de Usuários 1-215,text,true,,168460,118,282,282,https://www.gov.br/pt-br,193,0,0
+1637813985090,4574,www.gov.com.br,200,OK,Grupo de Usuários 1-22,text,true,,169280,231,281,281,https://www.gov.br/pt-br,856,0,632
+1637813985090,856,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-22,,true,,818,113,281,281,https://www.gov.br/,856,0,632
+1637813985946,3718,www.gov.com.br-1,200,OK,Grupo de Usuários 1-22,text,true,,168462,118,281,281,https://www.gov.br/pt-br,211,0,0
+1637813976643,13021,www.correios.com.br,200,OK,Grupo de Usuários 1-70,text,true,,109494,122,281,281,https://www.correios.com.br/,3127,0,2823
+1637813976710,12976,www.correios.com.br,200,OK,Grupo de Usuários 1-110,text,true,,109496,122,280,280,https://www.correios.com.br/,5279,0,4313
+1637813985260,4432,www.gov.com.br,200,OK,Grupo de Usuários 1-150,text,true,,169279,231,280,280,https://www.gov.br/pt-br,899,0,682
+1637813985260,899,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-150,,true,,819,113,280,280,https://www.gov.br/,899,0,682
+1637813986159,3533,www.gov.com.br-1,200,OK,Grupo de Usuários 1-150,text,true,,168460,118,280,280,https://www.gov.br/pt-br,237,0,0
+1637813976645,13088,www.correios.com.br,200,OK,Grupo de Usuários 1-19,text,true,,109496,122,279,279,https://www.correios.com.br/,2466,0,2290
+1637813976703,13030,www.correios.com.br,200,OK,Grupo de Usuários 1-106,text,true,,109494,122,279,279,https://www.correios.com.br/,4156,0,2374
+1637813985845,3948,www.gov.com.br,200,OK,Grupo de Usuários 1-95,text,true,,169275,231,279,279,https://www.gov.br/pt-br,914,0,680
+1637813985845,914,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-95,,true,,818,113,279,279,https://www.gov.br/,914,0,680
+1637813986759,3034,www.gov.com.br-1,200,OK,Grupo de Usuários 1-95,text,true,,168457,118,279,279,https://www.gov.br/pt-br,240,0,0
+1637813976714,13079,www.correios.com.br,200,OK,Grupo de Usuários 1-111,text,true,,109494,122,279,279,https://www.correios.com.br/,4469,0,2361
+1637813976660,13169,www.correios.com.br,200,OK,Grupo de Usuários 1-90,text,true,,109496,122,278,278,https://www.correios.com.br/,4648,0,2287
+1637813983225,6638,www.gov.com.br,200,OK,Grupo de Usuários 1-119,text,true,,169276,231,278,278,https://www.gov.br/pt-br,688,0,491
+1637813984390,5473,www.gov.com.br,200,OK,Grupo de Usuários 1-244,text,true,,169275,231,278,278,https://www.gov.br/pt-br,804,0,623
+1637813983225,688,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-119,,true,,818,113,278,278,https://www.gov.br/,688,0,491
+1637813984390,804,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-244,,true,,818,113,278,278,https://www.gov.br/,804,0,623
+1637813983914,5949,www.gov.com.br-1,200,OK,Grupo de Usuários 1-119,text,true,,168458,118,278,278,https://www.gov.br/pt-br,464,0,0
+1637813985194,4669,www.gov.com.br-1,200,OK,Grupo de Usuários 1-244,text,true,,168457,118,278,278,https://www.gov.br/pt-br,217,0,0
+1637813982295,7620,www.gov.com.br,200,OK,Grupo de Usuários 1-277,text,true,,169274,231,276,276,https://www.gov.br/pt-br,797,0,662
+1637813982295,797,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-277,,true,,816,113,276,276,https://www.gov.br/,797,0,662
+1637813983093,6822,www.gov.com.br-1,200,OK,Grupo de Usuários 1-277,text,true,,168458,118,276,276,https://www.gov.br/pt-br,538,0,0
+1637813976697,13238,www.correios.com.br,200,OK,Grupo de Usuários 1-108,text,true,,109494,122,275,275,https://www.correios.com.br/,3981,0,3110
+1637813976729,13250,www.correios.com.br,200,OK,Grupo de Usuários 1-117,text,true,,109494,122,275,275,https://www.correios.com.br/,4138,0,2206
+1637813985195,4784,www.gov.com.br,200,OK,Grupo de Usuários 1-4,text,true,,169279,231,275,275,https://www.gov.br/pt-br,897,0,672
+1637813985195,897,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-4,,true,,819,113,275,275,https://www.gov.br/,897,0,672
+1637813986092,3887,www.gov.com.br-1,200,OK,Grupo de Usuários 1-4,text,true,,168460,118,275,275,https://www.gov.br/pt-br,204,0,0
+1637813976913,13066,www.correios.com.br,200,OK,Grupo de Usuários 1-176,text,true,,109494,122,275,275,https://www.correios.com.br/,3951,0,2004
+1637813977219,12761,www.correios.com.br,200,OK,Grupo de Usuários 1-281,text,true,,109496,122,275,275,https://www.correios.com.br/,3397,0,1478
+1637813976643,13351,www.correios.com.br,200,OK,Grupo de Usuários 1-64,text,true,,109496,122,274,274,https://www.correios.com.br/,1854,0,1777
+1637813976956,13105,www.correios.com.br,200,OK,Grupo de Usuários 1-194,text,true,,109494,122,274,274,https://www.correios.com.br/,4250,0,3413
+1637813985949,4113,www.gov.com.br,200,OK,Grupo de Usuários 1-137,text,true,,169279,231,274,274,https://www.gov.br/pt-br,913,0,694
+1637813985949,913,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-137,,true,,818,113,274,274,https://www.gov.br/,913,0,694
+1637813986862,3200,www.gov.com.br-1,200,OK,Grupo de Usuários 1-137,text,true,,168461,118,274,274,https://www.gov.br/pt-br,786,0,0
+1637813976632,13433,www.correios.com.br,200,OK,Grupo de Usuários 1-14,text,true,,109496,122,273,273,https://www.correios.com.br/,6013,0,2286
+1637813976662,13415,www.correios.com.br,200,OK,Grupo de Usuários 1-91,text,true,,109496,122,273,273,https://www.correios.com.br/,2722,0,2455
+1637813986509,3576,www.gov.com.br,200,OK,Grupo de Usuários 1-289,text,true,,169275,231,273,273,https://www.gov.br/pt-br,1277,0,1031
+1637813986509,1277,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-289,,true,,818,113,273,273,https://www.gov.br/,1277,0,1031
+1637813987787,2298,www.gov.com.br-1,200,OK,Grupo de Usuários 1-289,text,true,,168457,118,273,273,https://www.gov.br/pt-br,272,0,0
+1637813976656,13432,www.correios.com.br,200,OK,Grupo de Usuários 1-93,text,true,,109496,122,272,272,https://www.correios.com.br/,5324,0,1792
+1637813976981,13225,www.correios.com.br,200,OK,Grupo de Usuários 1-201,text,true,,109494,122,272,272,https://www.correios.com.br/,2134,0,1955
+1637813976743,13466,www.correios.com.br,200,OK,Grupo de Usuários 1-124,text,true,,109494,122,272,272,https://www.correios.com.br/,4995,0,2961
+1637813976844,13379,www.correios.com.br,200,OK,Grupo de Usuários 1-157,text,true,,109494,122,272,272,https://www.correios.com.br/,3144,0,2337
+1637813977253,12998,www.correios.com.br,200,OK,Grupo de Usuários 1-292,text,true,,109496,122,272,272,https://www.correios.com.br/,5393,0,1279
+1637813976647,13653,www.correios.com.br,200,OK,Grupo de Usuários 1-59,text,true,,109494,122,272,272,https://www.correios.com.br/,1861,0,1784
+1637813976640,13675,www.correios.com.br,200,OK,Grupo de Usuários 1-77,text,true,,109496,122,272,272,https://www.correios.com.br/,5423,0,2277
+1637813976638,13697,www.correios.com.br,200,OK,Grupo de Usuários 1-41,text,true,,109494,122,272,272,https://www.correios.com.br/,6134,0,3284
+1637813976906,13440,www.correios.com.br,200,OK,Grupo de Usuários 1-175,text,true,,109494,122,272,272,https://www.correios.com.br/,2836,0,2532
+1637813983459,6909,www.gov.com.br,200,OK,Grupo de Usuários 1-228,text,true,,169280,231,272,272,https://www.gov.br/pt-br,873,0,624
+1637813983459,873,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-228,,true,,819,113,272,272,https://www.gov.br/,873,0,624
+1637813984332,6036,www.gov.com.br-1,200,OK,Grupo de Usuários 1-228,text,true,,168461,118,272,272,https://www.gov.br/pt-br,217,0,0
+1637813976645,13762,www.correios.com.br,200,OK,Grupo de Usuários 1-17,text,true,,109494,122,271,271,https://www.correios.com.br/,4590,0,2877
+1637813976842,13567,www.correios.com.br,200,OK,Grupo de Usuários 1-156,text,true,,109494,122,271,271,https://www.correios.com.br/,2526,0,2258
+1637813976897,13521,www.correios.com.br,200,OK,Grupo de Usuários 1-174,text,true,,109494,122,271,271,https://www.correios.com.br/,4076,0,2039
+1637813977259,13159,www.correios.com.br,200,OK,Grupo de Usuários 1-294,text,true,,109496,122,271,271,https://www.correios.com.br/,3436,0,1272
+1637813976915,13556,www.correios.com.br,200,OK,Grupo de Usuários 1-180,text,true,,109494,122,271,271,https://www.correios.com.br/,4168,0,3037
+1637813976834,13647,www.correios.com.br,200,OK,Grupo de Usuários 1-151,text,true,,109496,122,271,271,https://www.correios.com.br/,6122,0,2604
+1637813985014,5472,www.gov.com.br,200,OK,Grupo de Usuários 1-266,text,true,,169280,231,271,271,https://www.gov.br/pt-br,1359,0,883
+1637813985014,1359,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-266,,true,,818,113,271,271,https://www.gov.br/,1359,0,883
+1637813986373,4113,www.gov.com.br-1,200,OK,Grupo de Usuários 1-266,text,true,,168462,118,271,271,https://www.gov.br/pt-br,249,0,0
+1637813983559,6939,www.gov.com.br,200,OK,Grupo de Usuários 1-193,text,true,,169234,231,270,270,https://www.gov.br/pt-br,810,0,571
+1637813983559,810,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-193,,true,,776,113,270,270,https://www.gov.br/,810,0,571
+1637813984369,6129,www.gov.com.br-1,200,OK,Grupo de Usuários 1-193,text,true,,168458,118,270,270,https://www.gov.br/pt-br,216,0,0
+1637813976917,13590,www.correios.com.br,200,OK,Grupo de Usuários 1-178,text,true,,109494,122,269,269,https://www.correios.com.br/,6737,0,2574
+1637813976779,13828,www.correios.com.br,200,OK,Grupo de Usuários 1-135,text,true,,109494,122,269,269,https://www.correios.com.br/,3862,0,2927
+1637813976836,13774,www.correios.com.br,200,OK,Grupo de Usuários 1-152,text,true,,109494,122,269,269,https://www.correios.com.br/,4654,0,2625
+1637813976809,13804,www.correios.com.br,200,OK,Grupo de Usuários 1-144,text,true,,109496,122,269,269,https://www.correios.com.br/,4269,0,2695
+1637813981892,8725,www.gov.com.br,200,OK,Grupo de Usuários 1-263,text,true,,169275,231,269,269,https://www.gov.br/pt-br,664,0,506
+1637813981892,664,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-263,,true,,818,113,269,269,https://www.gov.br/,664,0,506
+1637813982556,8061,www.gov.com.br-1,200,OK,Grupo de Usuários 1-263,text,true,,168457,118,269,269,https://www.gov.br/pt-br,316,0,0
+1637813977045,13584,www.correios.com.br,200,OK,Grupo de Usuários 1-224,text,true,,109496,122,268,268,https://www.correios.com.br/,5247,0,2815
+1637813977214,13434,www.correios.com.br,200,OK,Grupo de Usuários 1-279,text,true,,109494,122,268,268,https://www.correios.com.br/,2892,0,2290
+1637813976642,14067,www.correios.com.br,200,OK,Grupo de Usuários 1-28,text,true,,109494,122,268,268,https://www.correios.com.br/,5620,0,4580
+1637813985477,5233,www.gov.com.br,200,OK,Grupo de Usuários 1-67,text,true,,169280,231,268,268,https://www.gov.br/pt-br,873,0,655
+1637813985477,873,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-67,,true,,819,113,268,268,https://www.gov.br/,873,0,655
+1637813986351,4359,www.gov.com.br-1,200,OK,Grupo de Usuários 1-67,text,true,,168461,118,268,268,https://www.gov.br/pt-br,248,0,0
+1637813976860,13880,www.correios.com.br,200,OK,Grupo de Usuários 1-162,text,true,,109496,122,267,267,https://www.correios.com.br/,4004,0,2076
+1637813976645,14110,www.correios.com.br,200,OK,Grupo de Usuários 1-42,text,true,,109494,122,267,267,https://www.correios.com.br/,4361,0,2352
+1637813976727,14035,www.correios.com.br,200,OK,Grupo de Usuários 1-113,text,true,,109494,122,267,267,https://www.correios.com.br/,4485,0,2253
+1637813976632,14139,www.correios.com.br,200,OK,Grupo de Usuários 1-40,text,true,,109496,122,267,267,https://www.correios.com.br/,5203,0,2284
+1637813977129,13647,www.correios.com.br,200,OK,Grupo de Usuários 1-252,text,true,,109494,122,267,267,https://www.correios.com.br/,1530,0,1436
+1637813983167,7609,www.gov.com.br,200,OK,Grupo de Usuários 1-7,text,true,,169275,231,267,267,https://www.gov.br/pt-br,687,0,495
+1637813983167,687,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-7,,true,,818,113,267,267,https://www.gov.br/,687,0,495
+1637813983854,6922,www.gov.com.br-1,200,OK,Grupo de Usuários 1-7,text,true,,168457,118,267,267,https://www.gov.br/pt-br,1244,0,0
+1637813976948,13829,www.correios.com.br,200,OK,Grupo de Usuários 1-192,text,true,,109496,122,267,267,https://www.correios.com.br/,4012,0,2031
+1637813976641,14136,www.correios.com.br,200,OK,Grupo de Usuários 1-78,text,true,,109494,122,267,267,https://www.correios.com.br/,3215,0,2274
+1637813977074,13713,www.correios.com.br,200,OK,Grupo de Usuários 1-231,text,true,,109494,122,266,266,https://www.correios.com.br/,5897,0,1905
+1637813988011,2823,www.gov.com.br,200,OK,Grupo de Usuários 1-68,text,true,,169275,231,266,266,https://www.gov.br/pt-br,890,0,674
+1637813988011,890,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-68,,true,,818,113,266,266,https://www.gov.br/,890,0,674
+1637813988901,1933,www.gov.com.br-1,200,OK,Grupo de Usuários 1-68,text,true,,168457,118,266,266,https://www.gov.br/pt-br,268,0,0
+1637813976661,14225,www.correios.com.br,200,OK,Grupo de Usuários 1-51,text,true,,109494,122,265,265,https://www.correios.com.br/,2319,0,1752
+1637813977249,13662,www.correios.com.br,200,OK,Grupo de Usuários 1-290,text,true,,109496,122,265,265,https://www.correios.com.br/,5298,0,4408
+1637813984508,6415,www.gov.com.br,200,OK,Grupo de Usuários 1-39,text,true,,169281,231,265,265,https://www.gov.br/pt-br,786,0,600
+1637813984508,786,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-39,,true,,818,113,265,265,https://www.gov.br/,786,0,600
+1637813985294,5629,www.gov.com.br-1,200,OK,Grupo de Usuários 1-39,text,true,,168463,118,265,265,https://www.gov.br/pt-br,225,0,0
+1637813976742,14308,www.correios.com.br,200,OK,Grupo de Usuários 1-123,text,true,,109496,122,264,264,https://www.correios.com.br/,4168,0,2748
+1637813982597,8517,www.gov.com.br,200,OK,Grupo de Usuários 1-260,text,true,,169234,231,264,264,https://www.gov.br/pt-br,4180,0,3940
+1637813982597,4180,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-260,,true,,776,113,264,264,https://www.gov.br/,4180,0,3940
+1637813986777,4337,www.gov.com.br-1,200,OK,Grupo de Usuários 1-260,text,true,,168458,118,264,264,https://www.gov.br/pt-br,474,0,0
+1637813988059,3066,www.gov.com.br,200,OK,Grupo de Usuários 1-147,text,true,,169275,231,263,263,https://www.gov.br/pt-br,1120,0,857
+1637813988059,1120,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-147,,true,,818,113,263,263,https://www.gov.br/,1120,0,857
+1637813989179,1946,www.gov.com.br-1,200,OK,Grupo de Usuários 1-147,text,true,,168457,118,263,263,https://www.gov.br/pt-br,391,0,0
+1637813983245,7961,www.gov.com.br,200,OK,Grupo de Usuários 1-47,text,true,,169276,231,262,262,https://www.gov.br/pt-br,995,0,481
+1637813983245,995,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-47,,true,,818,113,262,262,https://www.gov.br/,995,0,481
+1637813984240,6966,www.gov.com.br-1,200,OK,Grupo de Usuários 1-47,text,true,,168458,118,262,262,https://www.gov.br/pt-br,243,0,0
+1637813976924,14307,www.correios.com.br,200,OK,Grupo de Usuários 1-182,text,true,,109494,122,261,261,https://www.correios.com.br/,6526,0,2039
+1637813986158,5168,www.gov.com.br,200,OK,Grupo de Usuários 1-268,text,true,,169280,231,261,261,https://www.gov.br/pt-br,958,0,704
+1637813986158,958,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-268,,true,,818,113,261,261,https://www.gov.br/,958,0,704
+1637813987116,4210,www.gov.com.br-1,200,OK,Grupo de Usuários 1-268,text,true,,168462,118,261,261,https://www.gov.br/pt-br,321,0,0
+1637813986046,5302,www.gov.com.br,200,OK,Grupo de Usuários 1-142,text,true,,169278,231,260,260,https://www.gov.br/pt-br,943,0,700
+1637813986046,943,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-142,,true,,820,113,260,260,https://www.gov.br/,943,0,700
+1637813986989,4359,www.gov.com.br-1,200,OK,Grupo de Usuários 1-142,text,true,,168458,118,260,260,https://www.gov.br/pt-br,235,0,0
+1637813977261,14143,www.correios.com.br,200,OK,Grupo de Usuários 1-295,text,true,,109496,122,259,259,https://www.correios.com.br/,4477,0,1736
+1637813988558,2884,www.gov.com.br,200,OK,Grupo de Usuários 1-5,text,true,,169275,231,259,259,https://www.gov.br/pt-br,1134,0,761
+1637813988558,1134,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-5,,true,,818,113,259,259,https://www.gov.br/,1134,0,761
+1637813989692,1750,www.gov.com.br-1,200,OK,Grupo de Usuários 1-5,text,true,,168457,118,259,259,https://www.gov.br/pt-br,362,0,0
+1637813985775,5786,www.gov.com.br,200,OK,Grupo de Usuários 1-234,text,true,,169281,231,258,258,https://www.gov.br/pt-br,928,0,689
+1637813985775,928,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-234,,true,,818,113,258,258,https://www.gov.br/,928,0,689
+1637813986703,4858,www.gov.com.br-1,200,OK,Grupo de Usuários 1-234,text,true,,168463,118,258,258,https://www.gov.br/pt-br,235,0,0
+1637813977044,14575,www.correios.com.br,200,OK,Grupo de Usuários 1-223,text,true,,109496,122,257,257,https://www.correios.com.br/,3815,0,1599
+1637813987686,3934,www.gov.com.br,200,OK,Grupo de Usuários 1-205,text,true,,169277,231,257,257,https://www.gov.br/pt-br,968,0,736
+1637813987686,968,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-205,,true,,816,113,257,257,https://www.gov.br/,968,0,736
+1637813988654,2966,www.gov.com.br-1,200,OK,Grupo de Usuários 1-205,text,true,,168461,118,257,257,https://www.gov.br/pt-br,214,0,0
+1637813983414,8225,www.gov.com.br,200,OK,Grupo de Usuários 1-60,text,true,,169276,231,256,256,https://www.gov.br/pt-br,1146,0,935
+1637813983414,1146,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-60,,true,,818,113,256,256,https://www.gov.br/,1146,0,935
+1637813984560,7079,www.gov.com.br-1,200,OK,Grupo de Usuários 1-60,text,true,,168458,118,256,256,https://www.gov.br/pt-br,222,0,0
+1637813976672,15122,www.correios.com.br,200,OK,Grupo de Usuários 1-97,text,true,,109496,122,255,255,https://www.correios.com.br/,5770,0,4157
+1637813986644,5165,www.gov.com.br,200,OK,Grupo de Usuários 1-253,text,true,,169282,231,255,255,https://www.gov.br/pt-br,1025,0,791
+1637813986644,1025,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-253,,true,,819,113,255,255,https://www.gov.br/,1025,0,791
+1637813987670,4139,www.gov.com.br-1,200,OK,Grupo de Usuários 1-253,text,true,,168463,118,255,255,https://www.gov.br/pt-br,262,0,0
+1637813982749,9072,www.gov.com.br,200,OK,Grupo de Usuários 1-61,text,true,,169280,231,254,254,https://www.gov.br/pt-br,591,0,427
+1637813982749,591,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-61,,true,,816,113,254,254,https://www.gov.br/,591,0,427
+1637813983340,8481,www.gov.com.br-1,200,OK,Grupo de Usuários 1-61,text,true,,168464,118,254,254,https://www.gov.br/pt-br,155,0,0
+1637813976713,15128,www.correios.com.br,200,OK,Grupo de Usuários 1-109,text,true,,109496,122,253,253,https://www.correios.com.br/,3143,0,1707
+1637813987944,3932,www.gov.com.br,200,OK,Grupo de Usuários 1-8,text,true,,169277,231,253,253,https://www.gov.br/pt-br,924,0,710
+1637813987944,924,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-8,,true,,820,113,253,253,https://www.gov.br/,924,0,710
+1637813988868,3008,www.gov.com.br-1,200,OK,Grupo de Usuários 1-8,text,true,,168457,118,253,253,https://www.gov.br/pt-br,250,0,0
+1637813985542,6631,www.gov.com.br,200,OK,Grupo de Usuários 1-265,text,true,,169276,231,252,252,https://www.gov.br/pt-br,1446,0,951
+1637813985542,1446,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-265,,true,,816,113,252,252,https://www.gov.br/,1446,0,951
+1637813986989,5184,www.gov.com.br-1,200,OK,Grupo de Usuários 1-265,text,true,,168460,118,252,252,https://www.gov.br/pt-br,236,0,0
+1637813976653,15529,www.correios.com.br,200,OK,Grupo de Usuários 1-38,text,true,,109496,122,251,251,https://www.correios.com.br/,5711,0,3991
+1637813981570,10612,www.gov.com.br,200,OK,Grupo de Usuários 1-283,text,true,,169276,231,251,251,https://www.gov.br/pt-br,979,0,818
+1637813981570,979,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-283,,true,,816,113,251,251,https://www.gov.br/,979,0,818
+1637813982549,9633,www.gov.com.br-1,200,OK,Grupo de Usuários 1-283,text,true,,168460,118,251,251,https://www.gov.br/pt-br,577,0,0
+1637813981973,10286,www.gov.com.br,200,OK,Grupo de Usuários 1-53,text,true,,169278,231,250,250,https://www.gov.br/pt-br,672,0,501
+1637813981973,672,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-53,,true,,818,113,250,250,https://www.gov.br/,672,0,501
+1637813982646,9613,www.gov.com.br-1,200,OK,Grupo de Usuários 1-53,text,true,,168460,118,250,250,https://www.gov.br/pt-br,833,0,0
+1637813988345,3924,www.gov.com.br,200,OK,Grupo de Usuários 1-226,text,true,,169276,231,249,249,https://www.gov.br/pt-br,1031,0,720
+1637813988345,1031,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-226,,true,,816,113,249,249,https://www.gov.br/,1031,0,720
+1637813989376,2893,www.gov.com.br-1,200,OK,Grupo de Usuários 1-226,text,true,,168460,118,249,249,https://www.gov.br/pt-br,364,0,0
+1637813977031,15290,www.correios.com.br,200,OK,Grupo de Usuários 1-220,text,true,,109496,122,248,248,https://www.correios.com.br/,4640,0,1934
+1637813977171,15208,www.correios.com.br,200,OK,Grupo de Usuários 1-262,text,true,,109496,122,248,248,https://www.correios.com.br/,4278,0,1473
+1637813976645,15738,www.correios.com.br,200,OK,Grupo de Usuários 1-37,text,true,,109496,122,248,248,https://www.correios.com.br/,3577,0,3028
+1637813984831,7577,www.gov.com.br,200,OK,Grupo de Usuários 1-36,text,true,,169274,231,248,248,https://www.gov.br/pt-br,1085,0,848
+1637813984831,1085,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-36,,true,,816,113,248,248,https://www.gov.br/,1085,0,848
+1637813985916,6492,www.gov.com.br-1,200,OK,Grupo de Usuários 1-36,text,true,,168458,118,248,248,https://www.gov.br/pt-br,211,0,0
+1637813985225,7279,www.gov.com.br,200,OK,Grupo de Usuários 1-255,text,true,,169281,231,247,247,https://www.gov.br/pt-br,898,0,668
+1637813985225,898,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-255,,true,,818,113,247,247,https://www.gov.br/,898,0,668
+1637813986123,6381,www.gov.com.br-1,200,OK,Grupo de Usuários 1-255,text,true,,168463,118,247,247,https://www.gov.br/pt-br,675,0,0
+1637813983895,8623,www.gov.com.br,200,OK,Grupo de Usuários 1-58,text,true,,169276,231,246,246,https://www.gov.br/pt-br,911,0,690
+1637813983895,911,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-58,,true,,818,113,246,246,https://www.gov.br/,911,0,690
+1637813984806,7712,www.gov.com.br-1,200,OK,Grupo de Usuários 1-58,text,true,,168458,118,246,246,https://www.gov.br/pt-br,385,0,0
+1637813976728,15826,www.correios.com.br,200,OK,Grupo de Usuários 1-116,text,true,,109494,122,245,245,https://www.correios.com.br/,5642,0,2873
+1637813989185,3369,www.gov.com.br,200,OK,Grupo de Usuários 1-275,text,true,,169277,231,245,245,https://www.gov.br/pt-br,1372,0,1071
+1637813989185,1372,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-275,,true,,816,113,245,245,https://www.gov.br/,1372,0,1071
+1637813990557,1997,www.gov.com.br-1,200,OK,Grupo de Usuários 1-275,text,true,,168461,118,245,245,https://www.gov.br/pt-br,271,0,0
+1637813981105,11485,www.gov.com.br,200,OK,Grupo de Usuários 1-259,text,true,,169277,231,244,244,https://www.gov.br/pt-br,1117,0,934
+1637813981105,1117,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-259,,true,,820,113,244,244,https://www.gov.br/,1117,0,934
+1637813982224,10366,www.gov.com.br-1,200,OK,Grupo de Usuários 1-259,text,true,,168457,118,244,244,https://www.gov.br/pt-br,889,0,0
+1637813987322,5307,www.gov.com.br,200,OK,Grupo de Usuários 1-96,text,true,,169233,231,243,243,https://www.gov.br/pt-br,1688,0,1131
+1637813987322,1688,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-96,,true,,776,113,243,243,https://www.gov.br/,1688,0,1131
+1637813989010,3619,www.gov.com.br-1,200,OK,Grupo de Usuários 1-96,text,true,,168457,118,243,243,https://www.gov.br/pt-br,328,0,0
+1637813982530,10108,www.gov.com.br,200,OK,Grupo de Usuários 1-225,text,true,,169281,231,242,242,https://www.gov.br/pt-br,2371,0,2169
+1637813982530,2371,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-225,,true,,819,113,242,242,https://www.gov.br/,2371,0,2169
+1637813984901,7737,www.gov.com.br-1,200,OK,Grupo de Usuários 1-225,text,true,,168462,118,242,242,https://www.gov.br/pt-br,188,0,0
+1637813977217,15448,www.correios.com.br,200,OK,Grupo de Usuários 1-280,text,true,,109494,122,241,241,https://www.correios.com.br/,4454,0,2636
+1637813976839,15836,www.correios.com.br,200,OK,Grupo de Usuários 1-154,text,true,,109494,122,241,241,https://www.correios.com.br/,5863,0,2762
+1637813976802,15885,www.correios.com.br,200,OK,Grupo de Usuários 1-143,text,true,,109494,122,241,241,https://www.correios.com.br/,3604,0,3273
+1637813987773,4937,www.gov.com.br,200,OK,Grupo de Usuários 1-125,text,true,,169282,231,241,241,https://www.gov.br/pt-br,934,0,710
+1637813987773,934,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-125,,true,,820,113,241,241,https://www.gov.br/,934,0,710
+1637813988708,4002,www.gov.com.br-1,200,OK,Grupo de Usuários 1-125,text,true,,168462,118,241,241,https://www.gov.br/pt-br,868,0,0
+1637813976834,15921,www.correios.com.br,200,OK,Grupo de Usuários 1-153,text,true,,109494,122,240,240,https://www.correios.com.br/,2555,0,2282
+1637813984581,8174,www.gov.com.br,200,OK,Grupo de Usuários 1-34,text,true,,169276,231,240,240,https://www.gov.br/pt-br,827,0,603
+1637813984581,827,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-34,,true,,818,113,240,240,https://www.gov.br/,827,0,603
+1637813985408,7347,www.gov.com.br-1,200,OK,Grupo de Usuários 1-34,text,true,,168458,118,240,240,https://www.gov.br/pt-br,209,0,0
+1637813976634,16155,www.correios.com.br,200,OK,Grupo de Usuários 1-69,text,true,,109496,122,239,239,https://www.correios.com.br/,5798,0,5284
+1637813976640,16172,www.correios.com.br,200,OK,Grupo de Usuários 1-86,text,true,,109494,122,239,239,https://www.correios.com.br/,5664,0,4855
+1637813976642,16227,www.correios.com.br,200,OK,Grupo de Usuários 1-20,text,true,,109496,122,239,239,https://www.correios.com.br/,3601,0,3316
+1637813983122,9827,www.gov.com.br,200,OK,Grupo de Usuários 1-165,text,true,,169239,231,239,239,https://www.gov.br/pt-br,653,0,483
+1637813983122,653,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-165,,true,,776,113,239,239,https://www.gov.br/,653,0,483
+1637813983776,9173,www.gov.com.br-1,200,OK,Grupo de Usuários 1-165,text,true,,168463,118,239,239,https://www.gov.br/pt-br,197,0,0
+1637813986570,6413,www.gov.com.br,200,OK,Grupo de Usuários 1-250,text,true,,169276,231,238,238,https://www.gov.br/pt-br,1303,0,1022
+1637813986570,1303,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-250,,true,,816,113,238,238,https://www.gov.br/,1303,0,1022
+1637813987873,5110,www.gov.com.br-1,200,OK,Grupo de Usuários 1-250,text,true,,168460,118,238,238,https://www.gov.br/pt-br,262,0,0
+1637813976805,16179,www.correios.com.br,200,OK,Grupo de Usuários 1-140,text,true,,109494,122,238,238,https://www.correios.com.br/,6521,0,5840
+1637813988379,4605,www.gov.com.br,200,OK,Grupo de Usuários 1-235,text,true,,169275,231,238,238,https://www.gov.br/pt-br,1055,0,702
+1637813988379,1055,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-235,,true,,818,113,238,238,https://www.gov.br/,1055,0,702
+1637813989434,3550,www.gov.com.br-1,200,OK,Grupo de Usuários 1-235,text,true,,168457,118,238,238,https://www.gov.br/pt-br,357,0,0
+1637813987277,5717,www.gov.com.br,200,OK,Grupo de Usuários 1-169,text,true,,169280,231,236,236,https://www.gov.br/pt-br,1078,0,863
+1637813987277,1078,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-169,,true,,820,113,236,236,https://www.gov.br/,1078,0,863
+1637813988355,4639,www.gov.com.br-1,200,OK,Grupo de Usuários 1-169,text,true,,168460,118,236,236,https://www.gov.br/pt-br,236,0,0
+1637813976961,16100,www.correios.com.br,200,OK,Grupo de Usuários 1-196,text,true,,109494,122,235,235,https://www.correios.com.br/,5338,0,1520
+1637813977190,15878,www.correios.com.br,200,OK,Grupo de Usuários 1-269,text,true,,109494,122,235,235,https://www.correios.com.br/,3668,0,1853
+1637813977031,16058,www.correios.com.br,200,OK,Grupo de Usuários 1-219,text,true,,109496,122,235,235,https://www.correios.com.br/,4459,0,1967
+1637813983230,9927,www.gov.com.br,200,OK,Grupo de Usuários 1-221,text,true,,169280,231,235,235,https://www.gov.br/pt-br,683,0,486
+1637813983230,683,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-221,,true,,820,113,235,235,https://www.gov.br/,683,0,486
+1637813983914,9243,www.gov.com.br-1,200,OK,Grupo de Usuários 1-221,text,true,,168460,118,235,235,https://www.gov.br/pt-br,231,0,0
+1637813976647,16518,www.correios.com.br,200,OK,Grupo de Usuários 1-3,text,true,,109494,122,234,234,https://www.correios.com.br/,4843,0,2083
+1637813984968,8217,www.gov.com.br,200,OK,Grupo de Usuários 1-213,text,true,,169279,231,234,234,https://www.gov.br/pt-br,858,0,623
+1637813984968,858,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-213,,true,,818,113,234,234,https://www.gov.br/,858,0,623
+1637813985826,7359,www.gov.com.br-1,200,OK,Grupo de Usuários 1-213,text,true,,168461,118,234,234,https://www.gov.br/pt-br,220,0,0
+1637813982972,10226,www.gov.com.br,200,OK,Grupo de Usuários 1-13,text,true,,169279,231,233,233,https://www.gov.br/pt-br,2110,0,1918
+1637813982972,2110,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-13,,true,,818,113,233,233,https://www.gov.br/,2110,0,1918
+1637813985082,8116,www.gov.com.br-1,200,OK,Grupo de Usuários 1-13,text,true,,168461,118,233,233,https://www.gov.br/pt-br,567,0,0
+1637813989187,4014,www.gov.com.br,200,OK,Grupo de Usuários 1-227,text,true,,169278,231,232,232,https://www.gov.br/pt-br,1425,0,1133
+1637813989187,1425,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-227,,true,,818,113,232,232,https://www.gov.br/,1425,0,1133
+1637813990613,2588,www.gov.com.br-1,200,OK,Grupo de Usuários 1-227,text,true,,168460,118,232,232,https://www.gov.br/pt-br,282,0,0
+1637813984362,8865,www.gov.com.br,200,OK,Grupo de Usuários 1-99,text,true,,169278,231,231,231,https://www.gov.br/pt-br,2247,0,1994
+1637813984362,2247,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-99,,true,,818,113,231,231,https://www.gov.br/,2247,0,1994
+1637813986609,6618,www.gov.com.br-1,200,OK,Grupo de Usuários 1-99,text,true,,168460,118,231,231,https://www.gov.br/pt-br,453,0,0
+1637813985745,7487,www.gov.com.br,200,OK,Grupo de Usuários 1-25,text,true,,169281,231,230,230,https://www.gov.br/pt-br,942,0,701
+1637813985745,942,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-25,,true,,820,113,230,230,https://www.gov.br/,942,0,701
+1637813986687,6545,www.gov.com.br-1,200,OK,Grupo de Usuários 1-25,text,true,,168461,118,230,230,https://www.gov.br/pt-br,229,0,0
+1637813977093,16230,www.correios.com.br,200,OK,Grupo de Usuários 1-238,text,true,,109494,122,229,229,https://www.correios.com.br/,2736,0,2411
+1637813989626,3715,www.gov.com.br,200,OK,Grupo de Usuários 1-206,text,true,,169275,231,229,229,https://www.gov.br/pt-br,1261,0,981
+1637813989626,1261,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-206,,true,,818,113,229,229,https://www.gov.br/,1261,0,981
+1637813990887,2454,www.gov.com.br-1,200,OK,Grupo de Usuários 1-206,text,true,,168457,118,229,229,https://www.gov.br/pt-br,266,0,0
+1637813989687,3692,www.gov.com.br,200,OK,Grupo de Usuários 1-110,text,true,,169277,231,228,228,https://www.gov.br/pt-br,1235,0,960
+1637813989687,1235,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-110,,true,,816,113,228,228,https://www.gov.br/,1235,0,960
+1637813990922,2457,www.gov.com.br-1,200,OK,Grupo de Usuários 1-110,text,true,,168461,118,228,228,https://www.gov.br/pt-br,274,0,0
+1637813988791,4602,www.gov.com.br,200,OK,Grupo de Usuários 1-11,text,true,,169278,231,227,227,https://www.gov.br/pt-br,1566,0,914
+1637813988791,1566,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-11,,true,,820,113,227,227,https://www.gov.br/,1566,0,914
+1637813990357,3036,www.gov.com.br-1,200,OK,Grupo de Usuários 1-11,text,true,,168458,118,227,227,https://www.gov.br/pt-br,290,0,0
+1637813988030,5370,www.gov.com.br,200,OK,Grupo de Usuários 1-297,text,true,,169279,231,226,226,https://www.gov.br/pt-br,911,0,678
+1637813988030,911,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-297,,true,,819,113,226,226,https://www.gov.br/,911,0,678
+1637813988941,4459,www.gov.com.br-1,200,OK,Grupo de Usuários 1-297,text,true,,168460,118,226,226,https://www.gov.br/pt-br,283,0,0
+1637813987890,5530,www.gov.com.br,200,OK,Grupo de Usuários 1-278,text,true,,169282,231,225,225,https://www.gov.br/pt-br,949,0,714
+1637813987890,949,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-278,,true,,820,113,225,225,https://www.gov.br/,949,0,714
+1637813988839,4581,www.gov.com.br-1,200,OK,Grupo de Usuários 1-278,text,true,,168462,118,225,225,https://www.gov.br/pt-br,239,0,0
+1637813984852,8570,www.gov.com.br,200,OK,Grupo de Usuários 1-130,text,true,,169276,231,224,224,https://www.gov.br/pt-br,827,0,604
+1637813984852,827,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-130,,true,,816,113,224,224,https://www.gov.br/,827,0,604
+1637813985680,7742,www.gov.com.br-1,200,OK,Grupo de Usuários 1-130,text,true,,168460,118,224,224,https://www.gov.br/pt-br,1350,0,0
+1637813986253,7183,www.gov.com.br,200,OK,Grupo de Usuários 1-16,text,true,,169275,231,223,223,https://www.gov.br/pt-br,943,0,721
+1637813986253,943,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-16,,true,,818,113,223,223,https://www.gov.br/,943,0,721
+1637813987196,6240,www.gov.com.br-1,200,OK,Grupo de Usuários 1-16,text,true,,168457,118,223,223,https://www.gov.br/pt-br,547,0,0
+1637813983544,9926,www.gov.com.br,200,OK,Grupo de Usuários 1-138,text,true,,169280,231,222,222,https://www.gov.br/pt-br,2092,0,1876
+1637813983544,2092,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-138,,true,,820,113,222,222,https://www.gov.br/,2092,0,1876
+1637813985636,7834,www.gov.com.br-1,200,OK,Grupo de Usuários 1-138,text,true,,168460,118,222,222,https://www.gov.br/pt-br,679,0,0
+1637813977126,16346,www.correios.com.br,200,OK,Grupo de Usuários 1-251,text,true,,109494,122,221,221,https://www.correios.com.br/,4863,0,3899
+1637813986526,6946,www.gov.com.br,200,OK,Grupo de Usuários 1-146,text,true,,169275,231,221,221,https://www.gov.br/pt-br,1014,0,720
+1637813986526,1014,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-146,,true,,818,113,221,221,https://www.gov.br/,1014,0,720
+1637813987540,5932,www.gov.com.br-1,200,OK,Grupo de Usuários 1-146,text,true,,168457,118,221,221,https://www.gov.br/pt-br,245,0,0
+1637813976663,16903,www.correios.com.br,200,OK,Grupo de Usuários 1-92,text,true,,109494,122,220,220,https://www.correios.com.br/,4915,0,4120
+1637813990316,3257,www.gov.com.br,200,OK,Grupo de Usuários 1-77,text,true,,169279,231,220,220,https://www.gov.br/pt-br,1124,0,859
+1637813990316,1124,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-77,,true,,816,113,220,220,https://www.gov.br/,1124,0,859
+1637813991440,2133,www.gov.com.br-1,200,OK,Grupo de Usuários 1-77,text,true,,168463,118,220,220,https://www.gov.br/pt-br,285,0,0
+1637813990630,2978,www.gov.com.br,200,OK,Grupo de Usuários 1-224,text,true,,169239,231,219,219,https://www.gov.br/pt-br,1542,0,1311
+1637813976645,16963,www.correios.com.br,200,OK,Grupo de Usuários 1-54,text,true,,109496,122,219,219,https://www.correios.com.br/,7306,0,2052
+1637813990630,1542,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-224,,true,,776,113,219,219,https://www.gov.br/,1542,0,1311
+1637813992172,1436,www.gov.com.br-1,200,OK,Grupo de Usuários 1-224,text,true,,168463,118,219,219,https://www.gov.br/pt-br,224,0,0
+1637813976647,17006,www.correios.com.br,200,OK,Grupo de Usuários 1-30,text,true,,109494,122,218,218,https://www.correios.com.br/,5859,0,4136
+1637813984575,9127,www.gov.com.br,200,OK,Grupo de Usuários 1-207,text,true,,169277,231,218,218,https://www.gov.br/pt-br,821,0,602
+1637813984575,821,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-207,,true,,820,113,218,218,https://www.gov.br/,821,0,602
+1637813985397,8305,www.gov.com.br-1,200,OK,Grupo de Usuários 1-207,text,true,,168457,118,218,218,https://www.gov.br/pt-br,208,0,0
+1637813989081,4631,www.gov.com.br,200,OK,Grupo de Usuários 1-293,text,true,,169275,231,217,217,https://www.gov.br/pt-br,1359,0,1048
+1637813989081,1359,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-293,,true,,818,113,217,217,https://www.gov.br/,1359,0,1048
+1637813990441,3271,www.gov.com.br-1,200,OK,Grupo de Usuários 1-293,text,true,,168457,118,217,217,https://www.gov.br/pt-br,1379,0,0
+1637813976644,17082,www.correios.com.br,200,OK,Grupo de Usuários 1-45,text,true,,109494,122,216,216,https://www.correios.com.br/,6888,0,3476
+1637813976647,17121,www.correios.com.br,200,OK,Grupo de Usuários 1-43,text,true,,109494,122,216,216,https://www.correios.com.br/,5087,0,4344
+1637813988616,5198,www.gov.com.br,200,OK,Grupo de Usuários 1-254,text,true,,169278,231,216,216,https://www.gov.br/pt-br,1180,0,833
+1637813988616,1180,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-254,,true,,818,113,216,216,https://www.gov.br/,1180,0,833
+1637813989796,4018,www.gov.com.br-1,200,OK,Grupo de Usuários 1-254,text,true,,168460,118,216,216,https://www.gov.br/pt-br,360,0,0
+1637813982266,11657,www.gov.com.br,200,OK,Grupo de Usuários 1-167,text,true,,169278,231,215,215,https://www.gov.br/pt-br,841,0,705
+1637813982266,841,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-167,,true,,818,113,215,215,https://www.gov.br/,841,0,705
+1637813983107,10816,www.gov.com.br-1,200,OK,Grupo de Usuários 1-167,text,true,,168460,118,215,215,https://www.gov.br/pt-br,142,0,0
+1637813988126,5884,www.gov.com.br,200,OK,Grupo de Usuários 1-191,text,true,,169276,231,214,214,https://www.gov.br/pt-br,913,0,666
+1637813988126,913,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-191,,true,,818,113,214,214,https://www.gov.br/,913,0,666
+1637813989039,4971,www.gov.com.br-1,200,OK,Grupo de Usuários 1-191,text,true,,168458,118,214,214,https://www.gov.br/pt-br,1034,0,0
+1637813987490,6548,www.gov.com.br,200,OK,Grupo de Usuários 1-159,text,true,,169281,231,213,213,https://www.gov.br/pt-br,963,0,743
+1637813987490,963,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-159,,true,,818,113,213,213,https://www.gov.br/,963,0,743
+1637813988453,5585,www.gov.com.br-1,200,OK,Grupo de Usuários 1-159,text,true,,168463,118,213,213,https://www.gov.br/pt-br,220,0,0
+1637813987183,6856,www.gov.com.br,200,OK,Grupo de Usuários 1-24,text,true,,169275,231,212,212,https://www.gov.br/pt-br,1437,0,1214
+1637813987183,1437,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-24,,true,,818,113,212,212,https://www.gov.br/,1437,0,1214
+1637813988620,5419,www.gov.com.br-1,200,OK,Grupo de Usuários 1-24,text,true,,168457,118,212,212,https://www.gov.br/pt-br,230,0,0
+1637813987518,6565,www.gov.com.br,200,OK,Grupo de Usuários 1-136,text,true,,169273,231,211,211,https://www.gov.br/pt-br,963,0,738
+1637813987518,963,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-136,,true,,816,113,211,211,https://www.gov.br/,963,0,738
+1637813988481,5602,www.gov.com.br-1,200,OK,Grupo de Usuários 1-136,text,true,,168457,118,211,211,https://www.gov.br/pt-br,219,0,0
+1637813977115,16977,www.correios.com.br,200,OK,Grupo de Usuários 1-247,text,true,,109496,122,210,210,https://www.correios.com.br/,8083,0,4059
+1637813989980,4222,www.gov.com.br,200,OK,Grupo de Usuários 1-176,text,true,,169280,231,210,210,https://www.gov.br/pt-br,1156,0,892
+1637813989980,1156,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-176,,true,,820,113,210,210,https://www.gov.br/,1156,0,892
+1637813991137,3065,www.gov.com.br-1,200,OK,Grupo de Usuários 1-176,text,true,,168460,118,210,210,https://www.gov.br/pt-br,270,0,0
+1637813990788,3440,www.gov.com.br,200,OK,Grupo de Usuários 1-231,text,true,,169280,231,209,209,https://www.gov.br/pt-br,1108,0,851
+1637813990788,1108,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-231,,true,,818,113,209,209,https://www.gov.br/,1108,0,851
+1637813991896,2332,www.gov.com.br-1,200,OK,Grupo de Usuários 1-231,text,true,,168462,118,209,209,https://www.gov.br/pt-br,257,0,0
+1637813983245,11044,www.gov.com.br,200,OK,Grupo de Usuários 1-76,text,true,,169275,231,208,208,https://www.gov.br/pt-br,668,0,471
+1637813983245,668,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-76,,true,,818,113,208,208,https://www.gov.br/,668,0,471
+1637813983914,10375,www.gov.com.br-1,200,OK,Grupo de Usuários 1-76,text,true,,168457,118,208,208,https://www.gov.br/pt-br,1073,0,0
+1637813976913,17437,www.correios.com.br,200,OK,Grupo de Usuários 1-179,text,true,,109494,122,207,207,https://www.correios.com.br/,5479,0,2129
+1637813989830,4574,www.gov.com.br,200,OK,Grupo de Usuários 1-90,text,true,,169276,231,207,207,https://www.gov.br/pt-br,1227,0,947
+1637813989830,1227,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-90,,true,,818,113,207,207,https://www.gov.br/,1227,0,947
+1637813991057,3347,www.gov.com.br-1,200,OK,Grupo de Usuários 1-90,text,true,,168458,118,207,207,https://www.gov.br/pt-br,269,0,0
+1637813982371,12044,www.gov.com.br,200,OK,Grupo de Usuários 1-48,text,true,,169284,231,206,206,https://www.gov.br/pt-br,612,0,477
+1637813982371,612,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-48,,true,,820,113,206,206,https://www.gov.br/,612,0,477
+1637813982983,11432,www.gov.com.br-1,200,OK,Grupo de Usuários 1-48,text,true,,168464,118,206,206,https://www.gov.br/pt-br,136,0,0
+1637813985841,8584,www.gov.com.br,200,OK,Grupo de Usuários 1-212,text,true,,169276,231,205,205,https://www.gov.br/pt-br,920,0,684
+1637813985841,920,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-212,,true,,819,113,205,205,https://www.gov.br/,920,0,684
+1637813986761,7664,www.gov.com.br-1,200,OK,Grupo de Usuários 1-212,text,true,,168457,118,205,205,https://www.gov.br/pt-br,247,0,0
+1637813984046,10463,www.gov.com.br,200,OK,Grupo de Usuários 1-122,text,true,,169239,231,204,204,https://www.gov.br/pt-br,883,0,692
+1637813984046,883,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-122,,true,,776,113,204,204,https://www.gov.br/,883,0,692
+1637813984929,9580,www.gov.com.br-1,200,OK,Grupo de Usuários 1-122,text,true,,168463,118,204,204,https://www.gov.br/pt-br,190,0,0
+1637813984327,10303,www.gov.com.br,200,OK,Grupo de Usuários 1-132,text,true,,169278,231,203,203,https://www.gov.br/pt-br,827,0,632
+1637813984327,827,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-132,,true,,820,113,203,203,https://www.gov.br/,827,0,632
+1637813985154,9476,www.gov.com.br-1,200,OK,Grupo de Usuários 1-132,text,true,,168458,118,203,203,https://www.gov.br/pt-br,220,0,0
+1637813990066,4650,www.gov.com.br,200,OK,Grupo de Usuários 1-14,text,true,,169276,231,202,202,https://www.gov.br/pt-br,1159,0,900
+1637813990066,1159,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-14,,true,,818,113,202,202,https://www.gov.br/,1159,0,900
+1637813991225,3491,www.gov.com.br-1,200,OK,Grupo de Usuários 1-14,text,true,,168458,118,202,202,https://www.gov.br/pt-br,287,0,0
+1637813988126,6602,www.gov.com.br,200,OK,Grupo de Usuários 1-172,text,true,,169278,231,201,201,https://www.gov.br/pt-br,1511,0,1147
+1637813988126,1511,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-172,,true,,820,113,201,201,https://www.gov.br/,1511,0,1147
+1637813989637,5091,www.gov.com.br-1,200,OK,Grupo de Usuários 1-172,text,true,,168458,118,201,201,https://www.gov.br/pt-br,357,0,0
+1637813984714,10023,www.gov.com.br,200,OK,Grupo de Usuários 1-83,text,true,,169233,231,200,200,https://www.gov.br/pt-br,804,0,580
+1637813984714,804,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-83,,true,,776,113,200,200,https://www.gov.br/,804,0,580
+1637813985519,9218,www.gov.com.br-1,200,OK,Grupo de Usuários 1-83,text,true,,168457,118,200,200,https://www.gov.br/pt-br,220,0,0
+1637813987483,7296,www.gov.com.br,200,OK,Grupo de Usuários 1-131,text,true,,169283,231,199,199,https://www.gov.br/pt-br,970,0,749
+1637813987483,970,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-131,,true,,820,113,199,199,https://www.gov.br/,970,0,749
+1637813988453,6326,www.gov.com.br-1,200,OK,Grupo de Usuários 1-131,text,true,,168463,118,199,199,https://www.gov.br/pt-br,431,0,0
+1637813986674,8107,www.gov.com.br,200,OK,Grupo de Usuários 1-57,text,true,,169278,231,198,198,https://www.gov.br/pt-br,1036,0,791
+1637813986674,1036,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-57,,true,,820,113,198,198,https://www.gov.br/,1036,0,791
+1637813987710,7071,www.gov.com.br-1,200,OK,Grupo de Usuários 1-57,text,true,,168458,118,198,198,https://www.gov.br/pt-br,248,0,0
+1637813986859,7931,www.gov.com.br,200,OK,Grupo de Usuários 1-299,text,true,,169281,231,197,197,https://www.gov.br/pt-br,1343,0,1086
+1637813986859,1343,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-299,,true,,818,113,197,197,https://www.gov.br/,1343,0,1086
+1637813988202,6588,www.gov.com.br-1,200,OK,Grupo de Usuários 1-299,text,true,,168463,118,197,197,https://www.gov.br/pt-br,222,0,0
+1637813990336,4458,www.gov.com.br,200,OK,Grupo de Usuários 1-41,text,true,,169275,231,196,196,https://www.gov.br/pt-br,1134,0,853
+1637813990336,1134,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-41,,true,,818,113,196,196,https://www.gov.br/,1134,0,853
+1637813991470,3324,www.gov.com.br-1,200,OK,Grupo de Usuários 1-41,text,true,,168457,118,196,196,https://www.gov.br/pt-br,279,0,0
+1637813986175,8621,www.gov.com.br,200,OK,Grupo de Usuários 1-273,text,true,,169281,231,195,195,https://www.gov.br/pt-br,956,0,706
+1637813986175,956,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-273,,true,,818,113,195,195,https://www.gov.br/,956,0,706
+1637813987131,7665,www.gov.com.br-1,200,OK,Grupo de Usuários 1-273,text,true,,168463,118,195,195,https://www.gov.br/pt-br,315,0,0
+1637813984450,10369,www.gov.com.br,200,OK,Grupo de Usuários 1-26,text,true,,169281,231,194,194,https://www.gov.br/pt-br,1026,0,787
+1637813984450,1026,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-26,,true,,818,113,194,194,https://www.gov.br/,1026,0,787
+1637813985476,9343,www.gov.com.br-1,200,OK,Grupo de Usuários 1-26,text,true,,168463,118,194,194,https://www.gov.br/pt-br,442,0,0
+1637813988075,6746,www.gov.com.br,200,OK,Grupo de Usuários 1-29,text,true,,169239,231,193,193,https://www.gov.br/pt-br,1650,0,1288
+1637813988075,1650,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-29,,true,,776,113,193,193,https://www.gov.br/,1650,0,1288
+1637813989725,5096,www.gov.com.br-1,200,OK,Grupo de Usuários 1-29,text,true,,168463,118,193,193,https://www.gov.br/pt-br,355,0,0
+1637813986566,8292,www.gov.com.br,200,OK,Grupo de Usuários 1-84,text,true,,169278,231,192,192,https://www.gov.br/pt-br,1270,0,1016
+1637813986566,1270,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-84,,true,,820,113,192,192,https://www.gov.br/,1270,0,1016
+1637813987836,7022,www.gov.com.br-1,200,OK,Grupo de Usuários 1-84,text,true,,168458,118,192,192,https://www.gov.br/pt-br,271,0,0
+1637813982077,12816,www.gov.com.br,200,OK,Grupo de Usuários 1-33,text,true,,169281,231,191,191,https://www.gov.br/pt-br,647,0,476
+1637813982077,647,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-33,,true,,818,113,191,191,https://www.gov.br/,647,0,476
+1637813982724,12169,www.gov.com.br-1,200,OK,Grupo de Usuários 1-33,text,true,,168463,118,191,191,https://www.gov.br/pt-br,141,0,0
+1637813988126,6777,www.gov.com.br,200,OK,Grupo de Usuários 1-85,text,true,,169277,231,190,190,https://www.gov.br/pt-br,913,0,666
+1637813988126,913,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-85,,true,,820,113,190,190,https://www.gov.br/,913,0,666
+1637813989039,5864,www.gov.com.br-1,200,OK,Grupo de Usuários 1-85,text,true,,168457,118,190,190,https://www.gov.br/pt-br,325,0,0
+1637813987079,7847,www.gov.com.br,200,OK,Grupo de Usuários 1-15,text,true,,169276,231,189,189,https://www.gov.br/pt-br,1077,0,805
+1637813987079,1077,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-15,,true,,818,113,189,189,https://www.gov.br/,1077,0,805
+1637813988156,6770,www.gov.com.br-1,200,OK,Grupo de Usuários 1-15,text,true,,168458,118,189,189,https://www.gov.br/pt-br,204,0,0
+1637813988984,5954,www.gov.com.br,200,OK,Grupo de Usuários 1-120,text,true,,169237,231,188,188,https://www.gov.br/pt-br,1374,0,1075
+1637813988984,1374,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-120,,true,,776,113,188,188,https://www.gov.br/,1374,0,1075
+1637813990358,4580,www.gov.com.br-1,200,OK,Grupo de Usuários 1-120,text,true,,168461,118,188,188,https://www.gov.br/pt-br,311,0,0
+1637813985516,9460,www.gov.com.br,200,OK,Grupo de Usuários 1-171,text,true,,169281,231,187,187,https://www.gov.br/pt-br,916,0,671
+1637813985516,916,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-171,,true,,818,113,187,187,https://www.gov.br/,916,0,671
+1637813986432,8544,www.gov.com.br-1,200,OK,Grupo de Usuários 1-171,text,true,,168463,118,187,187,https://www.gov.br/pt-br,231,0,0
+1637813990911,4087,www.gov.com.br,200,OK,Grupo de Usuários 1-290,text,true,,169233,231,186,186,https://www.gov.br/pt-br,1099,0,838
+1637813990911,1099,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-290,,true,,776,113,186,186,https://www.gov.br/,1099,0,838
+1637813992010,2988,www.gov.com.br-1,200,OK,Grupo de Usuários 1-290,text,true,,168457,118,186,186,https://www.gov.br/pt-br,219,0,0
+1637813976643,18403,www.correios.com.br,200,OK,Grupo de Usuários 1-6,text,true,,109496,122,185,185,https://www.correios.com.br/,10456,0,4821
+1637813982337,12753,www.gov.com.br,200,OK,Grupo de Usuários 1-286,text,true,,169278,231,185,185,https://www.gov.br/pt-br,2122,0,1883
+1637813982337,2122,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-286,,true,,818,113,185,185,https://www.gov.br/,2122,0,1883
+1637813984459,10631,www.gov.com.br-1,200,OK,Grupo de Usuários 1-286,text,true,,168460,118,185,185,https://www.gov.br/pt-br,412,0,0
+1637813976728,18373,www.correios.com.br,200,OK,Grupo de Usuários 1-115,text,true,,109496,122,184,184,https://www.correios.com.br/,6922,0,2334
+1637813989308,5833,www.gov.com.br,200,OK,Grupo de Usuários 1-18,text,true,,169280,231,184,184,https://www.gov.br/pt-br,1363,0,1060
+1637813989308,1363,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-18,,true,,818,113,184,184,https://www.gov.br/,1363,0,1060
+1637813990671,4470,www.gov.com.br-1,200,OK,Grupo de Usuários 1-18,text,true,,168462,118,184,184,https://www.gov.br/pt-br,278,0,0
+1637813988075,7113,www.gov.com.br,200,OK,Grupo de Usuários 1-2,text,true,,169281,231,183,183,https://www.gov.br/pt-br,896,0,679
+1637813988075,896,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-2,,true,,818,113,183,183,https://www.gov.br/,896,0,679
+1637813988971,6217,www.gov.com.br-1,200,OK,Grupo de Usuários 1-2,text,true,,168463,118,183,183,https://www.gov.br/pt-br,303,0,0
+1637813984658,10593,www.gov.com.br,200,OK,Grupo de Usuários 1-107,text,true,,169273,231,182,182,https://www.gov.br/pt-br,1403,0,879
+1637813984658,1403,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-107,,true,,816,113,182,182,https://www.gov.br/,1403,0,879
+1637813986061,9190,www.gov.com.br-1,200,OK,Grupo de Usuários 1-107,text,true,,168457,118,182,182,https://www.gov.br/pt-br,221,0,0
+1637813989496,5774,www.gov.com.br,200,OK,Grupo de Usuários 1-163,text,true,,169275,231,181,181,https://www.gov.br/pt-br,1282,0,1003
+1637813989496,1282,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-163,,true,,818,113,181,181,https://www.gov.br/,1282,0,1003
+1637813990778,4492,www.gov.com.br-1,200,OK,Grupo de Usuários 1-163,text,true,,168457,118,181,181,https://www.gov.br/pt-br,287,0,0
+1637813986355,8964,www.gov.com.br,200,OK,Grupo de Usuários 1-133,text,true,,169280,231,180,180,https://www.gov.br/pt-br,2604,0,2098
+1637813986355,2604,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-133,,true,,818,113,180,180,https://www.gov.br/,2604,0,2098
+1637813988959,6360,www.gov.com.br-1,200,OK,Grupo de Usuários 1-133,text,true,,168462,118,180,180,https://www.gov.br/pt-br,666,0,0
+1637813984333,11004,www.gov.com.br,200,OK,Grupo de Usuários 1-44,text,true,,169283,231,179,179,https://www.gov.br/pt-br,1346,0,875
+1637813984333,1346,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-44,,true,,820,113,179,179,https://www.gov.br/,1346,0,875
+1637813985680,9657,www.gov.com.br-1,200,OK,Grupo de Usuários 1-44,text,true,,168463,118,179,179,https://www.gov.br/pt-br,653,0,0
+1637813988481,6943,www.gov.com.br,200,OK,Grupo de Usuários 1-183,text,true,,169281,231,178,178,https://www.gov.br/pt-br,1109,0,705
+1637813988481,1109,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-183,,true,,818,113,178,178,https://www.gov.br/,1109,0,705
+1637813989591,5833,www.gov.com.br-1,200,OK,Grupo de Usuários 1-183,text,true,,168463,118,178,178,https://www.gov.br/pt-br,360,0,0
+1637813985247,10188,www.gov.com.br,200,OK,Grupo de Usuários 1-216,text,true,,169276,231,177,177,https://www.gov.br/pt-br,903,0,689
+1637813985247,903,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-216,,true,,818,113,177,177,https://www.gov.br/,903,0,689
+1637813986150,9285,www.gov.com.br-1,200,OK,Grupo de Usuários 1-216,text,true,,168458,118,177,177,https://www.gov.br/pt-br,222,0,0
+1637813988456,6989,www.gov.com.br,200,OK,Grupo de Usuários 1-248,text,true,,169278,231,176,176,https://www.gov.br/pt-br,2769,0,2495
+1637813988456,2769,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-248,,true,,818,113,176,176,https://www.gov.br/,2769,0,2495
+1637813991225,4220,www.gov.com.br-1,200,OK,Grupo de Usuários 1-248,text,true,,168460,118,176,176,https://www.gov.br/pt-br,1019,0,0
+1637813987554,7896,www.gov.com.br,200,OK,Grupo de Usuários 1-98,text,true,,169238,231,175,175,https://www.gov.br/pt-br,973,0,744
+1637813987554,973,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-98,,true,,776,113,175,175,https://www.gov.br/,973,0,744
+1637813988528,6922,www.gov.com.br-1,200,OK,Grupo de Usuários 1-98,text,true,,168462,118,175,175,https://www.gov.br/pt-br,231,0,0
+1637813990410,5050,www.gov.com.br,200,OK,Grupo de Usuários 1-156,text,true,,169278,231,174,174,https://www.gov.br/pt-br,1145,0,861
+1637813990410,1145,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-156,,true,,820,113,174,174,https://www.gov.br/,1145,0,861
+1637813991555,3905,www.gov.com.br-1,200,OK,Grupo de Usuários 1-156,text,true,,168458,118,174,174,https://www.gov.br/pt-br,271,0,0
+1637813986349,9147,www.gov.com.br,200,OK,Grupo de Usuários 1-298,text,true,,169278,231,173,173,https://www.gov.br/pt-br,972,0,716
+1637813986349,972,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-298,,true,,818,113,173,173,https://www.gov.br/,972,0,716
+1637813987321,8175,www.gov.com.br-1,200,OK,Grupo de Usuários 1-298,text,true,,168460,118,173,173,https://www.gov.br/pt-br,294,0,0
+1637813976774,18725,www.correios.com.br,200,OK,Grupo de Usuários 1-128,text,true,,109496,122,172,172,https://www.correios.com.br/,4314,0,3184
+1637813976941,18579,www.correios.com.br,200,OK,Grupo de Usuários 1-188,text,true,,109496,122,172,172,https://www.correios.com.br/,4153,0,2101
+1637813990777,4782,www.gov.com.br,200,OK,Grupo de Usuários 1-192,text,true,,169278,231,172,172,https://www.gov.br/pt-br,1091,0,844
+1637813990777,1091,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-192,,true,,820,113,172,172,https://www.gov.br/,1091,0,844
+1637813991868,3691,www.gov.com.br-1,200,OK,Grupo de Usuários 1-192,text,true,,168458,118,172,172,https://www.gov.br/pt-br,671,0,0
+1637813987744,7831,www.gov.com.br,200,OK,Grupo de Usuários 1-161,text,true,,169282,231,171,171,https://www.gov.br/pt-br,1334,0,1095
+1637813987744,1334,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-161,,true,,819,113,171,171,https://www.gov.br/,1334,0,1095
+1637813989079,6496,www.gov.com.br-1,200,OK,Grupo de Usuários 1-161,text,true,,168463,118,171,171,https://www.gov.br/pt-br,353,0,0
+1637813982121,13478,www.gov.com.br,200,OK,Grupo de Usuários 1-211,text,true,,169273,231,170,170,https://www.gov.br/pt-br,2024,0,1792
+1637813982121,2024,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-211,,true,,816,113,170,170,https://www.gov.br/,2024,0,1792
+1637813984145,11454,www.gov.com.br-1,200,OK,Grupo de Usuários 1-211,text,true,,168457,118,170,170,https://www.gov.br/pt-br,1678,0,0
+1637813990419,5183,www.gov.com.br,200,OK,Grupo de Usuários 1-294,text,true,,169276,231,169,169,https://www.gov.br/pt-br,1611,0,1355
+1637813990419,1611,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-294,,true,,818,113,169,169,https://www.gov.br/,1611,0,1355
+1637813992030,3572,www.gov.com.br-1,200,OK,Grupo de Usuários 1-294,text,true,,168458,118,169,169,https://www.gov.br/pt-br,226,0,0
+1637813990062,5548,www.gov.com.br,200,OK,Grupo de Usuários 1-194,text,true,,169281,231,168,168,https://www.gov.br/pt-br,1871,0,1619
+1637813990062,1871,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-194,,true,,818,113,168,168,https://www.gov.br/,1871,0,1619
+1637813991934,3676,www.gov.com.br-1,200,OK,Grupo de Usuários 1-194,text,true,,168463,118,168,168,https://www.gov.br/pt-br,641,0,0
+1637813985278,10334,www.gov.com.br,200,OK,Grupo de Usuários 1-104,text,true,,169277,231,167,167,https://www.gov.br/pt-br,904,0,675
+1637813985278,904,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-104,,true,,820,113,167,167,https://www.gov.br/,904,0,675
+1637813986182,9430,www.gov.com.br-1,200,OK,Grupo de Usuários 1-104,text,true,,168457,118,167,167,https://www.gov.br/pt-br,250,0,0
+1637813987239,8380,www.gov.com.br,200,OK,Grupo de Usuários 1-87,text,true,,169279,231,166,166,https://www.gov.br/pt-br,1262,0,1039
+1637813987239,1262,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-87,,true,,818,113,166,166,https://www.gov.br/,1262,0,1039
+1637813988502,7117,www.gov.com.br-1,200,OK,Grupo de Usuários 1-87,text,true,,168461,118,166,166,https://www.gov.br/pt-br,439,0,0
+1637813989936,5691,www.gov.com.br,200,OK,Grupo de Usuários 1-108,text,true,,169277,231,165,165,https://www.gov.br/pt-br,1187,0,902
+1637813989936,1187,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-108,,true,,819,113,165,165,https://www.gov.br/,1187,0,902
+1637813991123,4504,www.gov.com.br-1,200,OK,Grupo de Usuários 1-108,text,true,,168458,118,165,165,https://www.gov.br/pt-br,274,0,0
+1637813991232,4405,www.gov.com.br,200,OK,Grupo de Usuários 1-182,text,true,,169281,231,164,164,https://www.gov.br/pt-br,1753,0,1580
+1637813991232,1753,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-182,,true,,818,113,164,164,https://www.gov.br/,1753,0,1580
+1637813992985,2652,www.gov.com.br-1,200,OK,Grupo de Usuários 1-182,text,true,,168463,118,164,164,https://www.gov.br/pt-br,438,0,0
+1637813983720,11935,www.gov.com.br,200,OK,Grupo de Usuários 1-55,text,true,,169278,231,163,163,https://www.gov.br/pt-br,2156,0,1921
+1637813983720,2156,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-55,,true,,818,113,163,163,https://www.gov.br/,2156,0,1921
+1637813985876,9779,www.gov.com.br-1,200,OK,Grupo de Usuários 1-55,text,true,,168460,118,163,163,https://www.gov.br/pt-br,671,0,0
+1637813992676,2981,www.gov.com.br,200,OK,Grupo de Usuários 1-154,text,true,,169280,231,162,162,https://www.gov.br/pt-br,634,0,488
+1637813992676,634,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-154,,true,,818,113,162,162,https://www.gov.br/,634,0,488
+1637813993310,2347,www.gov.com.br-1,200,OK,Grupo de Usuários 1-154,text,true,,168462,118,162,162,https://www.gov.br/pt-br,146,0,0
+1637813988899,6790,www.gov.com.br,200,OK,Grupo de Usuários 1-189,text,true,,169278,231,161,161,https://www.gov.br/pt-br,1682,0,989
+1637813988899,1682,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-189,,true,,820,113,161,161,https://www.gov.br/,1682,0,989
+1637813990582,5107,www.gov.com.br-1,200,OK,Grupo de Usuários 1-189,text,true,,168458,118,161,161,https://www.gov.br/pt-br,282,0,0
+1637813981970,13722,www.gov.com.br,200,OK,Grupo de Usuários 1-222,text,true,,169282,231,160,160,https://www.gov.br/pt-br,682,0,521
+1637813981970,682,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-222,,true,,819,113,160,160,https://www.gov.br/,682,0,521
+1637813982652,13040,www.gov.com.br-1,200,OK,Grupo de Usuários 1-222,text,true,,168463,118,160,160,https://www.gov.br/pt-br,150,0,0
+1637813985739,9987,www.gov.com.br,200,OK,Grupo de Usuários 1-258,text,true,,169234,231,159,159,https://www.gov.br/pt-br,924,0,693
+1637813988674,7052,www.gov.com.br,200,OK,Grupo de Usuários 1-270,text,true,,169277,231,159,159,https://www.gov.br/pt-br,1197,0,860
+1637813988674,1197,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-270,,true,,820,113,159,159,https://www.gov.br/,1197,0,860
+1637813989871,5855,www.gov.com.br-1,200,OK,Grupo de Usuários 1-270,text,true,,168457,118,159,159,https://www.gov.br/pt-br,352,0,0
+1637813985739,924,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-258,,true,,776,113,159,159,https://www.gov.br/,924,0,693
+1637813986663,9063,www.gov.com.br-1,200,OK,Grupo de Usuários 1-258,text,true,,168458,118,159,159,https://www.gov.br/pt-br,236,0,0
+1637813988501,7243,www.gov.com.br,200,OK,Grupo de Usuários 1-80,text,true,,169276,231,157,157,https://www.gov.br/pt-br,1748,0,1412
+1637813988501,1748,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-80,,true,,818,113,157,157,https://www.gov.br/,1748,0,1412
+1637813990249,5495,www.gov.com.br-1,200,OK,Grupo de Usuários 1-80,text,true,,168458,118,157,157,https://www.gov.br/pt-br,840,0,0
+1637813983646,12107,www.gov.com.br,200,OK,Grupo de Usuários 1-141,text,true,,169277,231,156,156,https://www.gov.br/pt-br,860,0,638
+1637813983646,860,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-141,,true,,820,113,156,156,https://www.gov.br/,860,0,638
+1637813984506,11247,www.gov.com.br-1,200,OK,Grupo de Usuários 1-141,text,true,,168457,118,156,156,https://www.gov.br/pt-br,207,0,0
+1637813989023,6820,www.gov.com.br,200,OK,Grupo de Usuários 1-243,text,true,,169278,231,155,155,https://www.gov.br/pt-br,1365,0,1047
+1637813989023,1365,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-243,,true,,820,113,155,155,https://www.gov.br/,1365,0,1047
+1637813990389,5454,www.gov.com.br-1,200,OK,Grupo de Usuários 1-243,text,true,,168458,118,155,155,https://www.gov.br/pt-br,305,0,0
+1637813989308,6553,www.gov.com.br,200,OK,Grupo de Usuários 1-49,text,true,,169281,231,154,154,https://www.gov.br/pt-br,1363,0,1060
+1637813989308,1363,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-49,,true,,818,113,154,154,https://www.gov.br/,1363,0,1060
+1637813990671,5190,www.gov.com.br-1,200,OK,Grupo de Usuários 1-49,text,true,,168463,118,154,154,https://www.gov.br/pt-br,546,0,0
+1637813988255,7647,www.gov.com.br,200,OK,Grupo de Usuários 1-66,text,true,,169274,231,153,153,https://www.gov.br/pt-br,970,0,684
+1637813988255,970,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-66,,true,,816,113,153,153,https://www.gov.br/,970,0,684
+1637813989225,6677,www.gov.com.br-1,200,OK,Grupo de Usuários 1-66,text,true,,168458,118,153,153,https://www.gov.br/pt-br,741,0,0
+1637813993473,2460,www.gov.com.br,200,OK,Grupo de Usuários 1-251,text,true,,169280,231,152,152,https://www.gov.br/pt-br,634,0,482
+1637813993473,634,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-251,,true,,820,113,152,152,https://www.gov.br/,634,0,482
+1637813994107,1826,www.gov.com.br-1,200,OK,Grupo de Usuários 1-251,text,true,,168460,118,152,152,https://www.gov.br/pt-br,138,0,0
+1637813985014,10939,www.gov.com.br,200,OK,Grupo de Usuários 1-65,text,true,,169276,231,151,151,https://www.gov.br/pt-br,862,0,632
+1637813985014,862,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-65,,true,,818,113,151,151,https://www.gov.br/,862,0,632
+1637813985876,10077,www.gov.com.br-1,200,OK,Grupo de Usuários 1-65,text,true,,168458,118,151,151,https://www.gov.br/pt-br,443,0,0
+1637813989172,6789,www.gov.com.br,200,OK,Grupo de Usuários 1-129,text,true,,169283,231,150,150,https://www.gov.br/pt-br,1387,0,1082
+1637813989172,1387,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-129,,true,,820,113,150,150,https://www.gov.br/,1387,0,1082
+1637813990559,5402,www.gov.com.br-1,200,OK,Grupo de Usuários 1-129,text,true,,168463,118,150,150,https://www.gov.br/pt-br,1590,0,0
+1637813987898,8065,www.gov.com.br,200,OK,Grupo de Usuários 1-9,text,true,,169278,231,149,149,https://www.gov.br/pt-br,952,0,722
+1637813987898,952,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-9,,true,,818,113,149,149,https://www.gov.br/,952,0,722
+1637813988851,7112,www.gov.com.br-1,200,OK,Grupo de Usuários 1-9,text,true,,168460,118,149,149,https://www.gov.br/pt-br,242,0,0
+1637813985559,10405,www.gov.com.br,200,OK,Grupo de Usuários 1-126,text,true,,169278,231,148,148,https://www.gov.br/pt-br,1158,0,926
+1637813985559,1158,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-126,,true,,820,113,148,148,https://www.gov.br/,1158,0,926
+1637813984394,11570,www.gov.com.br,200,OK,Grupo de Usuários 1-239,text,true,,169279,231,148,148,https://www.gov.br/pt-br,821,0,634
+1637813986717,9247,www.gov.com.br-1,200,OK,Grupo de Usuários 1-126,text,true,,168458,118,148,148,https://www.gov.br/pt-br,1327,0,0
+1637813984394,821,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-239,,true,,818,113,148,148,https://www.gov.br/,821,0,634
+1637813985215,10749,www.gov.com.br-1,200,OK,Grupo de Usuários 1-239,text,true,,168461,118,148,148,https://www.gov.br/pt-br,222,0,0
+1637813989626,6361,www.gov.com.br,200,OK,Grupo de Usuários 1-271,text,true,,169276,231,146,146,https://www.gov.br/pt-br,1239,0,971
+1637813989626,1239,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-271,,true,,818,113,146,146,https://www.gov.br/,1239,0,971
+1637813990865,5122,www.gov.com.br-1,200,OK,Grupo de Usuários 1-271,text,true,,168458,118,146,146,https://www.gov.br/pt-br,271,0,0
+1637813984983,11042,www.gov.com.br,200,OK,Grupo de Usuários 1-300,text,true,,169281,231,145,145,https://www.gov.br/pt-br,846,0,610
+1637813984983,846,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-300,,true,,818,113,145,145,https://www.gov.br/,846,0,610
+1637813985829,10196,www.gov.com.br-1,200,OK,Grupo de Usuários 1-300,text,true,,168463,118,145,145,https://www.gov.br/pt-br,218,0,0
+1637813988490,7548,www.gov.com.br,200,OK,Grupo de Usuários 1-168,text,true,,169280,231,144,144,https://www.gov.br/pt-br,2619,0,2336
+1637813988490,2619,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-168,,true,,818,113,144,144,https://www.gov.br/,2619,0,2336
+1637813991110,4928,www.gov.com.br-1,200,OK,Grupo de Usuários 1-168,text,true,,168462,118,144,144,https://www.gov.br/pt-br,540,0,0
+1637813986796,9251,www.gov.com.br,200,OK,Grupo de Usuários 1-62,text,true,,169282,231,143,143,https://www.gov.br/pt-br,4644,0,4379
+1637813986796,4644,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-62,,true,,820,113,143,143,https://www.gov.br/,4644,0,4379
+1637813991440,4607,www.gov.com.br-1,200,OK,Grupo de Usuários 1-62,text,true,,168462,118,143,143,https://www.gov.br/pt-br,534,0,0
+1637813984983,11090,www.gov.com.br,200,OK,Grupo de Usuários 1-197,text,true,,169280,231,142,142,https://www.gov.br/pt-br,1109,0,613
+1637813984983,1109,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-197,,true,,819,113,142,142,https://www.gov.br/,1109,0,613
+1637813986093,9980,www.gov.com.br-1,200,OK,Grupo de Usuários 1-197,text,true,,168461,118,142,142,https://www.gov.br/pt-br,222,0,0
+1637813985803,10303,www.gov.com.br,200,OK,Grupo de Usuários 1-245,text,true,,169281,231,141,141,https://www.gov.br/pt-br,906,0,673
+1637813985803,906,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-245,,true,,818,113,141,141,https://www.gov.br/,906,0,673
+1637813986709,9397,www.gov.com.br-1,200,OK,Grupo de Usuários 1-245,text,true,,168463,118,141,141,https://www.gov.br/pt-br,779,0,0
+1637813986778,9354,www.gov.com.br,200,OK,Grupo de Usuários 1-230,text,true,,169275,231,140,140,https://www.gov.br/pt-br,1013,0,775
+1637813986778,1013,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-230,,true,,818,113,140,140,https://www.gov.br/,1013,0,775
+1637813987791,8341,www.gov.com.br-1,200,OK,Grupo de Usuários 1-230,text,true,,168457,118,140,140,https://www.gov.br/pt-br,284,0,0
+1637813993090,3047,www.gov.com.br,200,OK,Grupo de Usuários 1-219,text,true,,169280,231,139,139,https://www.gov.br/pt-br,615,0,463
+1637813993090,615,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-219,,true,,820,113,139,139,https://www.gov.br/,615,0,463
+1637813993706,2431,www.gov.com.br-1,200,OK,Grupo de Usuários 1-219,text,true,,168460,118,139,139,https://www.gov.br/pt-br,574,0,0
+1637813987628,8514,www.gov.com.br,200,OK,Grupo de Usuários 1-184,text,true,,169239,231,138,138,https://www.gov.br/pt-br,1319,0,1090
+1637813987628,1319,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-184,,true,,776,113,138,138,https://www.gov.br/,1319,0,1090
+1637813988947,7195,www.gov.com.br-1,200,OK,Grupo de Usuários 1-184,text,true,,168463,118,138,138,https://www.gov.br/pt-br,280,0,0
+1637813986480,9669,www.gov.com.br,200,OK,Grupo de Usuários 1-200,text,true,,169276,231,137,137,https://www.gov.br/pt-br,2300,0,2067
+1637813986480,2300,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-200,,true,,819,113,137,137,https://www.gov.br/,2300,0,2067
+1637813988781,7368,www.gov.com.br-1,200,OK,Grupo de Usuários 1-200,text,true,,168457,118,137,137,https://www.gov.br/pt-br,527,0,0
+1637813988848,7311,www.gov.com.br,200,OK,Grupo de Usuários 1-101,text,true,,169277,231,136,136,https://www.gov.br/pt-br,2737,0,2461
+1637813988848,2737,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-101,,true,,816,113,136,136,https://www.gov.br/,2737,0,2461
+1637813991585,4574,www.gov.com.br-1,200,OK,Grupo de Usuários 1-101,text,true,,168461,118,136,136,https://www.gov.br/pt-br,505,0,0
+1637813990710,5486,www.gov.com.br,200,OK,Grupo de Usuários 1-28,text,true,,169276,231,135,135,https://www.gov.br/pt-br,2356,0,2196
+1637813990710,2356,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-28,,true,,818,113,135,135,https://www.gov.br/,2356,0,2196
+1637813993066,3130,www.gov.com.br-1,200,OK,Grupo de Usuários 1-28,text,true,,168458,118,135,135,https://www.gov.br/pt-br,284,0,0
+1637813992666,3549,www.gov.com.br,200,OK,Grupo de Usuários 1-280,text,true,,169281,231,134,134,https://www.gov.br/pt-br,632,0,484
+1637813992666,632,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-280,,true,,818,113,134,134,https://www.gov.br/,632,0,484
+1637813993298,2917,www.gov.com.br-1,200,OK,Grupo de Usuários 1-280,text,true,,168463,118,134,134,https://www.gov.br/pt-br,463,0,0
+1637813981959,14264,www.gov.com.br,200,OK,Grupo de Usuários 1-257,text,true,,169275,231,133,133,https://www.gov.br/pt-br,904,0,758
+1637813981959,904,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-257,,true,,818,113,133,133,https://www.gov.br/,904,0,758
+1637813982863,13360,www.gov.com.br-1,200,OK,Grupo de Usuários 1-257,text,true,,168457,118,133,133,https://www.gov.br/pt-br,412,0,0
+1637813977075,19151,www.correios.com.br,200,OK,Grupo de Usuários 1-232,text,true,,109494,122,132,132,https://www.correios.com.br/,3386,0,1889
+1637813992322,3912,www.gov.com.br,200,OK,Grupo de Usuários 1-220,text,true,,169279,231,132,132,https://www.gov.br/pt-br,702,0,547
+1637813992322,702,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-220,,true,,816,113,132,132,https://www.gov.br/,702,0,547
+1637813993024,3210,www.gov.com.br-1,200,OK,Grupo de Usuários 1-220,text,true,,168463,118,132,132,https://www.gov.br/pt-br,1150,0,0
+1637813983665,12580,www.gov.com.br,200,OK,Grupo de Usuários 1-155,text,true,,169276,231,131,131,https://www.gov.br/pt-br,2023,0,1810
+1637813983665,2023,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-155,,true,,818,113,131,131,https://www.gov.br/,2023,0,1810
+1637813985689,10556,www.gov.com.br-1,200,OK,Grupo de Usuários 1-155,text,true,,168458,118,131,131,https://www.gov.br/pt-br,1408,0,0
+1637813989665,6604,www.gov.com.br,200,OK,Grupo de Usuários 1-70,text,true,,169281,231,130,130,https://www.gov.br/pt-br,1458,0,1173
+1637813989665,1458,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-70,,true,,818,113,130,130,https://www.gov.br/,1458,0,1173
+1637813991123,5146,www.gov.com.br-1,200,OK,Grupo de Usuários 1-70,text,true,,168463,118,130,130,https://www.gov.br/pt-br,274,0,0
+1637813987560,8715,www.gov.com.br,200,OK,Grupo de Usuários 1-204,text,true,,169282,231,129,129,https://www.gov.br/pt-br,967,0,742
+1637813987560,967,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-204,,true,,819,113,129,129,https://www.gov.br/,967,0,742
+1637813988528,7747,www.gov.com.br-1,200,OK,Grupo de Usuários 1-204,text,true,,168463,118,129,129,https://www.gov.br/pt-br,228,0,0
+1637813984739,11553,www.gov.com.br,200,OK,Grupo de Usuários 1-218,text,true,,169238,231,128,128,https://www.gov.br/pt-br,1123,0,883
+1637813984739,1123,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-218,,true,,776,113,128,128,https://www.gov.br/,1123,0,883
+1637813985862,10430,www.gov.com.br-1,200,OK,Grupo de Usuários 1-218,text,true,,168462,118,128,128,https://www.gov.br/pt-br,230,0,0
+1637813983429,12892,www.gov.com.br,200,OK,Grupo de Usuários 1-202,text,true,,169276,231,127,127,https://www.gov.br/pt-br,2308,0,2090
+1637813983429,2308,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-202,,true,,818,113,127,127,https://www.gov.br/,2308,0,2090
+1637813985737,10584,www.gov.com.br-1,200,OK,Grupo de Usuários 1-202,text,true,,168458,118,127,127,https://www.gov.br/pt-br,666,0,0
+1637813992182,4140,www.gov.com.br,200,OK,Grupo de Usuários 1-38,text,true,,169233,231,127,127,https://www.gov.br/pt-br,767,0,594
+1637813992182,767,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-38,,true,,776,113,127,127,https://www.gov.br/,767,0,594
+1637813992949,3373,www.gov.com.br-1,200,OK,Grupo de Usuários 1-38,text,true,,168457,118,127,127,https://www.gov.br/pt-br,423,0,0
+1637813976645,19691,www.correios.com.br,200,OK,Grupo de Usuários 1-56,text,true,,109496,122,125,125,https://www.correios.com.br/,4217,0,2273
+1637813988563,7788,www.gov.com.br,200,OK,Grupo de Usuários 1-261,text,true,,169280,231,125,125,https://www.gov.br/pt-br,1162,0,801
+1637813988563,1162,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-261,,true,,819,113,125,125,https://www.gov.br/,1162,0,801
+1637813989725,6626,www.gov.com.br-1,200,OK,Grupo de Usuários 1-261,text,true,,168461,118,125,125,https://www.gov.br/pt-br,354,0,0
+1637813988929,7431,www.gov.com.br,200,OK,Grupo de Usuários 1-114,text,true,,169278,231,124,124,https://www.gov.br/pt-br,4028,0,3848
+1637813988929,4028,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-114,,true,,820,113,124,124,https://www.gov.br/,4028,0,3848
+1637813992957,3403,www.gov.com.br-1,200,OK,Grupo de Usuários 1-114,text,true,,168458,118,124,124,https://www.gov.br/pt-br,286,0,0
+1637813989181,7192,www.gov.com.br,200,OK,Grupo de Usuários 1-288,text,true,,169281,231,123,123,https://www.gov.br/pt-br,1376,0,1075
+1637813986978,9395,www.gov.com.br,200,OK,Grupo de Usuários 1-52,text,true,,169239,231,123,123,https://www.gov.br/pt-br,1199,0,930
+1637813989181,1376,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-288,,true,,818,113,123,123,https://www.gov.br/,1376,0,1075
+1637813986978,1199,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-52,,true,,776,113,123,123,https://www.gov.br/,1199,0,930
+1637813990557,5816,www.gov.com.br-1,200,OK,Grupo de Usuários 1-288,text,true,,168463,118,123,123,https://www.gov.br/pt-br,272,0,0
+1637813988177,8196,www.gov.com.br-1,200,OK,Grupo de Usuários 1-52,text,true,,168463,118,123,123,https://www.gov.br/pt-br,219,0,0
+1637813985412,10964,www.gov.com.br,200,OK,Grupo de Usuários 1-185,text,true,,169274,231,121,121,https://www.gov.br/pt-br,4467,0,4130
+1637813985412,4467,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-185,,true,,816,113,121,121,https://www.gov.br/,4467,0,4130
+1637813989879,6497,www.gov.com.br-1,200,OK,Grupo de Usuários 1-185,text,true,,168458,118,121,121,https://www.gov.br/pt-br,1490,0,0
+1637813990252,6195,www.gov.com.br,200,OK,Grupo de Usuários 1-292,text,true,,169275,231,120,120,https://www.gov.br/pt-br,1107,0,851
+1637813976647,19800,www.correios.com.br,200,OK,Grupo de Usuários 1-32,text,true,,109494,122,120,120,https://www.correios.com.br/,8411,0,5585
+1637813990252,1107,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-292,,true,,818,113,120,120,https://www.gov.br/,1107,0,851
+1637813991359,5088,www.gov.com.br-1,200,OK,Grupo de Usuários 1-292,text,true,,168457,118,120,120,https://www.gov.br/pt-br,289,0,0
+1637813986834,9637,www.gov.com.br,200,OK,Grupo de Usuários 1-71,text,true,,169280,231,119,119,https://www.gov.br/pt-br,1063,0,818
+1637813986834,1063,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-71,,true,,818,113,119,119,https://www.gov.br/,1063,0,818
+1637813987897,8574,www.gov.com.br-1,200,OK,Grupo de Usuários 1-71,text,true,,168462,118,119,119,https://www.gov.br/pt-br,273,0,0
+1637813989980,6504,www.gov.com.br,200,OK,Grupo de Usuários 1-281,text,true,,169275,231,118,118,https://www.gov.br/pt-br,1173,0,908
+1637813989980,1173,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-281,,true,,818,113,118,118,https://www.gov.br/,1173,0,908
+1637813991153,5331,www.gov.com.br-1,200,OK,Grupo de Usuários 1-281,text,true,,168457,118,118,118,https://www.gov.br/pt-br,274,0,0
+1637813986926,9565,www.gov.com.br,200,OK,Grupo de Usuários 1-284,text,true,,169237,231,117,117,https://www.gov.br/pt-br,2368,0,2051
+1637813986926,2368,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-284,,true,,776,113,117,117,https://www.gov.br/,2368,0,2051
+1637813989294,7197,www.gov.com.br-1,200,OK,Grupo de Usuários 1-284,text,true,,168461,118,117,117,https://www.gov.br/pt-br,1401,0,0
+1637813987052,9483,www.gov.com.br,200,OK,Grupo de Usuários 1-1,text,true,,169279,231,116,116,https://www.gov.br/pt-br,1084,0,821
+1637813987052,1084,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-1,,true,,816,113,116,116,https://www.gov.br/,1084,0,821
+1637813988136,8399,www.gov.com.br-1,200,OK,Grupo de Usuários 1-1,text,true,,168463,118,116,116,https://www.gov.br/pt-br,656,0,0
+1637813989734,6804,www.gov.com.br,200,OK,Grupo de Usuários 1-106,text,true,,169236,231,115,115,https://www.gov.br/pt-br,1251,0,961
+1637813989734,1251,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-106,,true,,776,113,115,115,https://www.gov.br/,1251,0,961
+1637813990985,5553,www.gov.com.br-1,200,OK,Grupo de Usuários 1-106,text,true,,168460,118,115,115,https://www.gov.br/pt-br,259,0,0
+1637813988820,7720,www.gov.com.br,200,OK,Grupo de Usuários 1-170,text,true,,169276,231,114,114,https://www.gov.br/pt-br,1295,0,960
+1637813988820,1295,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-170,,true,,819,113,114,114,https://www.gov.br/,1295,0,960
+1637813990116,6424,www.gov.com.br-1,200,OK,Grupo de Usuários 1-170,text,true,,168457,118,114,114,https://www.gov.br/pt-br,1716,0,0
+1637813987284,9261,www.gov.com.br,200,OK,Grupo de Usuários 1-242,text,true,,169275,231,113,113,https://www.gov.br/pt-br,1071,0,856
+1637813987284,1071,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-242,,true,,818,113,113,113,https://www.gov.br/,1071,0,856
+1637813988355,8190,www.gov.com.br-1,200,OK,Grupo de Usuários 1-242,text,true,,168457,118,113,113,https://www.gov.br/pt-br,696,0,0
+1637813985778,10782,www.gov.com.br,200,OK,Grupo de Usuários 1-199,text,true,,169280,231,112,112,https://www.gov.br/pt-br,925,0,693
+1637813985778,925,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-199,,true,,818,113,112,112,https://www.gov.br/,925,0,693
+1637813986703,9857,www.gov.com.br-1,200,OK,Grupo de Usuários 1-199,text,true,,168462,118,112,112,https://www.gov.br/pt-br,237,0,0
+1637813990756,5811,www.gov.com.br,200,OK,Grupo de Usuários 1-42,text,true,,169276,231,111,111,https://www.gov.br/pt-br,1109,0,852
+1637813990756,1109,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-42,,true,,819,113,111,111,https://www.gov.br/,1109,0,852
+1637813991866,4701,www.gov.com.br-1,200,OK,Grupo de Usuários 1-42,text,true,,168457,118,111,111,https://www.gov.br/pt-br,261,0,0
+1637813976998,19588,www.correios.com.br,200,OK,Grupo de Usuários 1-208,text,true,,109494,122,110,110,https://www.correios.com.br/,4236,0,1981
+1637813977241,19361,www.correios.com.br,200,OK,Grupo de Usuários 1-287,text,true,,109496,122,110,110,https://www.correios.com.br/,8423,0,3628
+1637813989157,7466,www.gov.com.br,200,OK,Grupo de Usuários 1-46,text,true,,169275,231,110,110,https://www.gov.br/pt-br,3180,0,2960
+1637813989157,3180,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-46,,true,,818,113,110,110,https://www.gov.br/,3180,0,2960
+1637813992337,4286,www.gov.com.br-1,200,OK,Grupo de Usuários 1-46,text,true,,168457,118,110,110,https://www.gov.br/pt-br,372,0,0
+1637813992688,3947,www.gov.com.br,200,OK,Grupo de Usuários 1-143,text,true,,169274,231,109,109,https://www.gov.br/pt-br,753,0,610
+1637813992688,753,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-143,,true,,816,113,109,109,https://www.gov.br/,753,0,610
+1637813993441,3194,www.gov.com.br-1,200,OK,Grupo de Usuários 1-143,text,true,,168458,118,109,109,https://www.gov.br/pt-br,482,0,0
+1637813991795,4846,www.gov.com.br,200,OK,Grupo de Usuários 1-97,text,true,,169280,231,108,108,https://www.gov.br/pt-br,883,0,700
+1637813991795,883,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-97,,true,,818,113,108,108,https://www.gov.br/,883,0,700
+1637813992678,3963,www.gov.com.br-1,200,OK,Grupo de Usuários 1-97,text,true,,168462,118,108,108,https://www.gov.br/pt-br,171,0,0
+1637813986195,10450,www.gov.com.br,200,OK,Grupo de Usuários 1-166,text,true,,169234,231,107,107,https://www.gov.br/pt-br,945,0,710
+1637813986195,945,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-166,,true,,776,113,107,107,https://www.gov.br/,945,0,710
+1637813987140,9505,www.gov.com.br-1,200,OK,Grupo de Usuários 1-166,text,true,,168458,118,107,107,https://www.gov.br/pt-br,315,0,0
+1637813988917,7730,www.gov.com.br,200,OK,Grupo de Usuários 1-210,text,true,,169280,231,106,106,https://www.gov.br/pt-br,1383,0,1063
+1637813988917,1383,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-210,,true,,818,113,106,106,https://www.gov.br/,1383,0,1063
+1637813990300,6347,www.gov.com.br-1,200,OK,Grupo de Usuários 1-210,text,true,,168462,118,106,106,https://www.gov.br/pt-br,293,0,0
+1637813992813,3840,www.gov.com.br,200,OK,Grupo de Usuários 1-86,text,true,,169277,231,105,105,https://www.gov.br/pt-br,1322,0,1189
+1637813992813,1322,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-86,,true,,819,113,105,105,https://www.gov.br/,1322,0,1189
+1637813994135,2518,www.gov.com.br-1,200,OK,Grupo de Usuários 1-86,text,true,,168458,118,105,105,https://www.gov.br/pt-br,595,0,0
+1637813989980,6682,www.gov.com.br,200,OK,Grupo de Usuários 1-117,text,true,,169275,231,104,104,https://www.gov.br/pt-br,1192,0,910
+1637813989980,1192,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-117,,true,,818,113,104,104,https://www.gov.br/,1192,0,910
+1637813991172,5490,www.gov.com.br-1,200,OK,Grupo de Usuários 1-117,text,true,,168457,118,104,104,https://www.gov.br/pt-br,1009,0,0
+1637813985932,10750,www.gov.com.br,200,OK,Grupo de Usuários 1-198,text,true,,169278,231,103,103,https://www.gov.br/pt-br,904,0,698
+1637813985932,904,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-198,,true,,818,113,103,103,https://www.gov.br/,904,0,698
+1637813986837,9845,www.gov.com.br-1,200,OK,Grupo de Usuários 1-198,text,true,,168460,118,103,103,https://www.gov.br/pt-br,1495,0,0
+1637813986440,10253,www.gov.com.br,200,OK,Grupo de Usuários 1-267,text,true,,169278,231,102,102,https://www.gov.br/pt-br,1017,0,700
+1637813986440,1017,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-267,,true,,820,113,102,102,https://www.gov.br/,1017,0,700
+1637813987457,9236,www.gov.com.br-1,200,OK,Grupo de Usuários 1-267,text,true,,168458,118,102,102,https://www.gov.br/pt-br,230,0,0
+1637813976634,20075,www.correios.com.br,200,OK,Grupo de Usuários 1-73,text,true,,109494,122,101,101,https://www.correios.com.br/,5797,0,4429
+1637813989326,7396,www.gov.com.br,200,OK,Grupo de Usuários 1-256,text,true,,169282,231,101,101,https://www.gov.br/pt-br,1367,0,1046
+1637813989326,1367,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-256,,true,,819,113,101,101,https://www.gov.br/,1367,0,1046
+1637813990694,6028,www.gov.com.br-1,200,OK,Grupo de Usuários 1-256,text,true,,168463,118,101,101,https://www.gov.br/pt-br,286,0,0
+1637813990471,6293,www.gov.com.br,200,OK,Grupo de Usuários 1-180,text,true,,169281,231,100,100,https://www.gov.br/pt-br,1114,0,840
+1637813990471,1114,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-180,,true,,818,113,100,100,https://www.gov.br/,1114,0,840
+1637813991585,5179,www.gov.com.br-1,200,OK,Grupo de Usuários 1-180,text,true,,168463,118,100,100,https://www.gov.br/pt-br,743,0,0
+1637813986816,9949,www.gov.com.br,200,OK,Grupo de Usuários 1-186,text,true,,169239,231,99,99,https://www.gov.br/pt-br,2276,0,2031
+1637813986816,2276,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-186,,true,,776,113,99,99,https://www.gov.br/,2276,0,2031
+1637813989092,7673,www.gov.com.br-1,200,OK,Grupo de Usuários 1-186,text,true,,168463,118,99,99,https://www.gov.br/pt-br,1378,0,0
+1637813995047,1726,www.gov.com.br,200,OK,Grupo de Usuários 1-6,text,true,,169277,231,98,98,https://www.gov.br/pt-br,404,0,321
+1637813995047,404,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-6,,true,,819,113,98,98,https://www.gov.br/,404,0,321
+1637813995452,1321,www.gov.com.br-1,200,OK,Grupo de Usuários 1-6,text,true,,168458,118,98,98,https://www.gov.br/pt-br,90,0,0
+1637813991620,5159,www.gov.com.br,200,OK,Grupo de Usuários 1-223,text,true,,169277,231,97,97,https://www.gov.br/pt-br,1499,0,1362
+1637813991620,1499,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-223,,true,,820,113,97,97,https://www.gov.br/,1499,0,1362
+1637813993120,3659,www.gov.com.br-1,200,OK,Grupo de Usuários 1-223,text,true,,168457,118,97,97,https://www.gov.br/pt-br,155,0,0
+1637813991405,5392,www.gov.com.br,200,OK,Grupo de Usuários 1-295,text,true,,169273,231,96,96,https://www.gov.br/pt-br,1384,0,1224
+1637813991405,1384,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-295,,true,,816,113,96,96,https://www.gov.br/,1384,0,1224
+1637813992790,4007,www.gov.com.br-1,200,OK,Grupo de Usuários 1-295,text,true,,168457,118,96,96,https://www.gov.br/pt-br,193,0,0
+1637813986830,9986,www.gov.com.br,200,OK,Grupo de Usuários 1-63,text,true,,169276,231,95,95,https://www.gov.br/pt-br,1388,0,1126
+1637813986830,1388,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-63,,true,,818,113,95,95,https://www.gov.br/,1388,0,1126
+1637813988218,8598,www.gov.com.br-1,200,OK,Grupo de Usuários 1-63,text,true,,168458,118,95,95,https://www.gov.br/pt-br,234,0,0
+1637813988414,8444,www.gov.com.br,200,OK,Grupo de Usuários 1-276,text,true,,169279,231,94,94,https://www.gov.br/pt-br,4571,0,4398
+1637813988414,4571,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-276,,true,,818,113,94,94,https://www.gov.br/,4571,0,4398
+1637813992985,3873,www.gov.com.br-1,200,OK,Grupo de Usuários 1-276,text,true,,168461,118,94,94,https://www.gov.br/pt-br,435,0,0
+1637813986432,10450,www.gov.com.br,200,OK,Grupo de Usuários 1-272,text,true,,169278,231,93,93,https://www.gov.br/pt-br,5153,0,4879
+1637813986432,5153,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-272,,true,,818,113,93,93,https://www.gov.br/,5153,0,4879
+1637813991585,5297,www.gov.com.br-1,200,OK,Grupo de Usuários 1-272,text,true,,168460,118,93,93,https://www.gov.br/pt-br,736,0,0
+1637813989994,6890,www.gov.com.br,200,OK,Grupo de Usuários 1-64,text,true,,169283,231,92,92,https://www.gov.br/pt-br,1193,0,917
+1637813989994,1193,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-64,,true,,820,113,92,92,https://www.gov.br/,1193,0,917
+1637813991188,5696,www.gov.com.br-1,200,OK,Grupo de Usuários 1-64,text,true,,168463,118,92,92,https://www.gov.br/pt-br,269,0,0
+1637813990210,6677,www.gov.com.br,200,OK,Grupo de Usuários 1-124,text,true,,169278,231,91,91,https://www.gov.br/pt-br,1137,0,859
+1637813990210,1137,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-124,,true,,820,113,91,91,https://www.gov.br/,1137,0,859
+1637813991347,5540,www.gov.com.br-1,200,OK,Grupo de Usuários 1-124,text,true,,168458,118,91,91,https://www.gov.br/pt-br,285,0,0
+1637813990614,6275,www.gov.com.br,200,OK,Grupo de Usuários 1-144,text,true,,169238,231,90,90,https://www.gov.br/pt-br,1122,0,828
+1637813993069,3820,www.gov.com.br,200,OK,Grupo de Usuários 1-269,text,true,,169281,231,90,90,https://www.gov.br/pt-br,599,0,433
+1637813990614,1122,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-144,,true,,776,113,90,90,https://www.gov.br/,1122,0,828
+1637813993069,599,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-269,,true,,818,113,90,90,https://www.gov.br/,599,0,433
+1637813991737,5152,www.gov.com.br-1,200,OK,Grupo de Usuários 1-144,text,true,,168462,118,90,90,https://www.gov.br/pt-br,256,0,0
+1637813993668,3221,www.gov.com.br-1,200,OK,Grupo de Usuários 1-269,text,true,,168463,118,90,90,https://www.gov.br/pt-br,151,0,0
+1637813990777,6123,www.gov.com.br,200,OK,Grupo de Usuários 1-78,text,true,,169281,231,88,88,https://www.gov.br/pt-br,1881,0,1685
+1637813990777,1881,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-78,,true,,818,113,88,88,https://www.gov.br/,1881,0,1685
+1637813992659,4241,www.gov.com.br-1,200,OK,Grupo de Usuários 1-78,text,true,,168463,118,88,88,https://www.gov.br/pt-br,162,0,0
+1637813987322,9584,www.gov.com.br,200,OK,Grupo de Usuários 1-94,text,true,,169236,231,87,87,https://www.gov.br/pt-br,1411,0,815
+1637813987322,1411,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-94,,true,,776,113,87,87,https://www.gov.br/,1411,0,815
+1637813988733,8173,www.gov.com.br-1,200,OK,Grupo de Usuários 1-94,text,true,,168460,118,87,87,https://www.gov.br/pt-br,224,0,0
+1637813976945,19976,www.correios.com.br,200,OK,Grupo de Usuários 1-190,text,true,,109494,122,86,86,https://www.correios.com.br/,5217,0,4163
+1637813988688,8262,www.gov.com.br,200,OK,Grupo de Usuários 1-296,text,true,,169279,231,86,86,https://www.gov.br/pt-br,1225,0,870
+1637813992380,4570,www.gov.com.br,200,OK,Grupo de Usuários 1-262,text,true,,169236,231,86,86,https://www.gov.br/pt-br,710,0,540
+1637813988688,1225,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-296,,true,,818,113,86,86,https://www.gov.br/,1225,0,870
+1637813992380,710,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-262,,true,,776,113,86,86,https://www.gov.br/,710,0,540
+1637813989913,7037,www.gov.com.br-1,200,OK,Grupo de Usuários 1-296,text,true,,168461,118,86,86,https://www.gov.br/pt-br,900,0,0
+1637813993091,3859,www.gov.com.br-1,200,OK,Grupo de Usuários 1-262,text,true,,168460,118,86,86,https://www.gov.br/pt-br,1545,0,0
+1637813988781,8232,www.gov.com.br,200,OK,Grupo de Usuários 1-148,text,true,,169278,231,84,84,https://www.gov.br/pt-br,1576,0,922
+1637813988781,1576,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-148,,true,,818,113,84,84,https://www.gov.br/,1576,0,922
+1637813990357,6656,www.gov.com.br-1,200,OK,Grupo de Usuários 1-148,text,true,,168460,118,84,84,https://www.gov.br/pt-br,291,0,0
+1637813995521,1550,www.gov.com.br,200,OK,Grupo de Usuários 1-188,text,true,,169280,231,83,83,https://www.gov.br/pt-br,380,0,301
+1637813995521,380,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-188,,true,,816,113,83,83,https://www.gov.br/,380,0,301
+1637813995902,1169,www.gov.com.br-1,200,OK,Grupo de Usuários 1-188,text,true,,168464,118,83,83,https://www.gov.br/pt-br,102,0,0
+1637813988391,8692,www.gov.com.br,200,OK,Grupo de Usuários 1-74,text,true,,169234,231,82,82,https://www.gov.br/pt-br,1072,0,701
+1637813988391,1072,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-74,,true,,776,113,82,82,https://www.gov.br/,1072,0,701
+1637813989464,7619,www.gov.com.br-1,200,OK,Grupo de Usuários 1-74,text,true,,168458,118,82,82,https://www.gov.br/pt-br,349,0,0
+1637813984848,12263,www.gov.com.br,200,OK,Grupo de Usuários 1-249,text,true,,169281,231,81,81,https://www.gov.br/pt-br,831,0,610
+1637813984848,831,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-249,,true,,818,113,81,81,https://www.gov.br/,831,0,610
+1637813985680,11431,www.gov.com.br-1,200,OK,Grupo de Usuários 1-249,text,true,,168463,118,81,81,https://www.gov.br/pt-br,7595,0,0
+1637813986767,10347,www.gov.com.br,200,OK,Grupo de Usuários 1-21,text,true,,169280,231,80,80,https://www.gov.br/pt-br,1244,0,975
+1637813986767,1244,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-21,,true,,820,113,80,80,https://www.gov.br/,1244,0,975
+1637813988011,9103,www.gov.com.br-1,200,OK,Grupo de Usuários 1-21,text,true,,168460,118,80,80,https://www.gov.br/pt-br,1515,0,0
+1637813984542,12597,www.gov.com.br,200,OK,Grupo de Usuários 1-82,text,true,,169276,231,79,79,https://www.gov.br/pt-br,1101,0,611
+1637813984542,1101,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-82,,true,,819,113,79,79,https://www.gov.br/,1101,0,611
+1637813985644,11495,www.gov.com.br-1,200,OK,Grupo de Usuários 1-82,text,true,,168457,118,79,79,https://www.gov.br/pt-br,232,0,0
+1637813994093,3050,www.gov.com.br,200,OK,Grupo de Usuários 1-247,text,true,,169276,231,78,78,https://www.gov.br/pt-br,633,0,521
+1637813994093,633,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-247,,true,,819,113,78,78,https://www.gov.br/,633,0,521
+1637813994726,2417,www.gov.com.br-1,200,OK,Grupo de Usuários 1-247,text,true,,168457,118,78,78,https://www.gov.br/pt-br,223,0,0
+1637813985256,11926,www.gov.com.br,200,OK,Grupo de Usuários 1-203,text,true,,169233,231,77,77,https://www.gov.br/pt-br,903,0,686
+1637813985256,903,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-203,,true,,776,113,77,77,https://www.gov.br/,903,0,686
+1637813986159,11023,www.gov.com.br-1,200,OK,Grupo de Usuários 1-203,text,true,,168457,118,77,77,https://www.gov.br/pt-br,1489,0,0
+1637813992384,4813,www.gov.com.br,200,OK,Grupo de Usuários 1-37,text,true,,169281,231,76,76,https://www.gov.br/pt-br,1214,0,536
+1637813992384,1214,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-37,,true,,818,113,76,76,https://www.gov.br/,1214,0,536
+1637813993598,3599,www.gov.com.br-1,200,OK,Grupo de Usuários 1-37,text,true,,168463,118,76,76,https://www.gov.br/pt-br,163,0,0
+1637813990887,6319,www.gov.com.br,200,OK,Grupo de Usuários 1-51,text,true,,169276,231,75,75,https://www.gov.br/pt-br,1081,0,838
+1637813990887,1081,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-51,,true,,816,113,75,75,https://www.gov.br/,1081,0,838
+1637813991968,5238,www.gov.com.br-1,200,OK,Grupo de Usuários 1-51,text,true,,168460,118,75,75,https://www.gov.br/pt-br,226,0,0
+1637813976801,20442,www.correios.com.br,200,OK,Grupo de Usuários 1-139,text,true,,109494,122,74,74,https://www.correios.com.br/,6678,0,4080
+1637813995102,2211,www.gov.com.br,200,OK,Grupo de Usuários 1-115,text,true,,169278,231,74,74,https://www.gov.br/pt-br,986,0,879
+1637813995102,986,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-115,,true,,820,113,74,74,https://www.gov.br/,986,0,879
+1637813996088,1225,www.gov.com.br-1,200,OK,Grupo de Usuários 1-115,text,true,,168458,118,74,74,https://www.gov.br/pt-br,273,0,0
+1637813991051,6270,www.gov.com.br,200,OK,Grupo de Usuários 1-123,text,true,,169278,231,73,73,https://www.gov.br/pt-br,1086,0,826
+1637813991051,1086,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-123,,true,,816,113,73,73,https://www.gov.br/,1086,0,826
+1637813992138,5183,www.gov.com.br-1,200,OK,Grupo de Usuários 1-123,text,true,,168462,118,73,73,https://www.gov.br/pt-br,745,0,0
+1637813992790,4581,www.gov.com.br,200,OK,Grupo de Usuários 1-69,text,true,,169280,231,72,72,https://www.gov.br/pt-br,653,0,505
+1637813992790,653,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-69,,true,,820,113,72,72,https://www.gov.br/,653,0,505
+1637813993444,3927,www.gov.com.br-1,200,OK,Grupo de Usuários 1-69,text,true,,168460,118,72,72,https://www.gov.br/pt-br,480,0,0
+1637813990508,6873,www.gov.com.br,200,OK,Grupo de Usuários 1-178,text,true,,169276,231,71,71,https://www.gov.br/pt-br,1823,0,1582
+1637813990508,1823,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-178,,true,,816,113,71,71,https://www.gov.br/,1823,0,1582
+1637813992331,5050,www.gov.com.br-1,200,OK,Grupo de Usuários 1-178,text,true,,168460,118,71,71,https://www.gov.br/pt-br,196,0,0
+1637813988567,8829,www.gov.com.br,200,OK,Grupo de Usuários 1-160,text,true,,169276,231,70,70,https://www.gov.br/pt-br,1768,0,1461
+1637813988567,1768,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-160,,true,,819,113,70,70,https://www.gov.br/,1768,0,1461
+1637813990335,7061,www.gov.com.br-1,200,OK,Grupo de Usuários 1-160,text,true,,168457,118,70,70,https://www.gov.br/pt-br,292,0,0
+1637813993728,3668,www.gov.com.br,200,OK,Grupo de Usuários 1-45,text,true,,169277,231,70,70,https://www.gov.br/pt-br,1847,0,1762
+1637813993728,1847,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-45,,true,,820,113,70,70,https://www.gov.br/,1847,0,1762
+1637813995575,1821,www.gov.com.br-1,200,OK,Grupo de Usuários 1-45,text,true,,168457,118,70,70,https://www.gov.br/pt-br,379,0,0
+1637813990347,7112,www.gov.com.br,200,OK,Grupo de Usuários 1-175,text,true,,169276,231,68,68,https://www.gov.br/pt-br,1128,0,851
+1637813990347,1128,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-175,,true,,819,113,68,68,https://www.gov.br/,1128,0,851
+1637813991475,5984,www.gov.com.br-1,200,OK,Grupo de Usuários 1-175,text,true,,168457,118,68,68,https://www.gov.br/pt-br,289,0,0
+1637813987512,9963,www.gov.com.br,200,OK,Grupo de Usuários 1-75,text,true,,169276,231,67,67,https://www.gov.br/pt-br,969,0,744
+1637813987512,969,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-75,,true,,818,113,67,67,https://www.gov.br/,969,0,744
+1637813988481,8994,www.gov.com.br-1,200,OK,Grupo de Usuários 1-75,text,true,,168458,118,67,67,https://www.gov.br/pt-br,698,0,0
+1637813987450,10061,www.gov.com.br,200,OK,Grupo de Usuários 1-105,text,true,,169281,231,66,66,https://www.gov.br/pt-br,1359,0,768
+1637813987450,1359,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-105,,true,,820,113,66,66,https://www.gov.br/,1359,0,768
+1637813988809,8702,www.gov.com.br-1,200,OK,Grupo de Usuários 1-105,text,true,,168461,118,66,66,https://www.gov.br/pt-br,236,0,0
+1637813990078,7433,www.gov.com.br,200,OK,Grupo de Usuários 1-91,text,true,,169234,231,66,66,https://www.gov.br/pt-br,1166,0,902
+1637813990078,1166,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-91,,true,,776,113,66,66,https://www.gov.br/,1166,0,902
+1637813985377,12134,www.gov.com.br,200,OK,Grupo de Usuários 1-102,text,true,,169280,231,66,66,https://www.gov.br/pt-br,2825,0,2568
+1637813991244,6267,www.gov.com.br-1,200,OK,Grupo de Usuários 1-91,text,true,,168458,118,66,66,https://www.gov.br/pt-br,298,0,0
+1637813985377,2825,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-102,,true,,818,113,66,66,https://www.gov.br/,2825,0,2568
+1637813988202,9309,www.gov.com.br-1,200,OK,Grupo de Usuários 1-102,text,true,,168462,118,66,66,https://www.gov.br/pt-br,219,0,0
+1637813989794,7774,www.gov.com.br,200,OK,Grupo de Usuários 1-111,text,true,,169277,231,63,63,https://www.gov.br/pt-br,1244,0,960
+1637813989794,1244,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-111,,true,,820,113,63,63,https://www.gov.br/,1244,0,960
+1637813991038,6530,www.gov.com.br-1,200,OK,Grupo de Usuários 1-111,text,true,,168457,118,63,63,https://www.gov.br/pt-br,275,0,0
+1637813989531,8039,www.gov.com.br,200,OK,Grupo de Usuários 1-229,text,true,,169276,231,62,62,https://www.gov.br/pt-br,1285,0,990
+1637813989531,1285,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-229,,true,,818,113,62,62,https://www.gov.br/,1285,0,990
+1637813990816,6754,www.gov.com.br-1,200,OK,Grupo de Usuários 1-229,text,true,,168458,118,62,62,https://www.gov.br/pt-br,281,0,0
+1637813984719,12867,www.gov.com.br,200,OK,Grupo de Usuários 1-35,text,true,,169278,231,61,61,https://www.gov.br/pt-br,816,0,586
+1637813984719,816,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-35,,true,,818,113,61,61,https://www.gov.br/,816,0,586
+1637813985535,12051,www.gov.com.br-1,200,OK,Grupo de Usuários 1-35,text,true,,168460,118,61,61,https://www.gov.br/pt-br,242,0,0
+1637813988976,8616,www.gov.com.br,200,OK,Grupo de Usuários 1-264,text,true,,169236,231,60,60,https://www.gov.br/pt-br,1620,0,1332
+1637813988976,1620,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-264,,true,,776,113,60,60,https://www.gov.br/,1620,0,1332
+1637813990597,6995,www.gov.com.br-1,200,OK,Grupo de Usuários 1-264,text,true,,168460,118,60,60,https://www.gov.br/pt-br,268,0,0
+1637813994350,3249,www.gov.com.br,200,OK,Grupo de Usuários 1-179,text,true,,169281,231,59,59,https://www.gov.br/pt-br,943,0,809
+1637813994350,943,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-179,,true,,818,113,59,59,https://www.gov.br/,943,0,809
+1637813995293,2306,www.gov.com.br-1,200,OK,Grupo de Usuários 1-179,text,true,,168463,118,59,59,https://www.gov.br/pt-br,81,0,0
+1637813983493,14119,www.gov.com.br,200,OK,Grupo de Usuários 1-274,text,true,,169283,231,58,58,https://www.gov.br/pt-br,876,0,637
+1637813988453,9159,www.gov.com.br,200,OK,Grupo de Usuários 1-246,text,true,,169283,231,58,58,https://www.gov.br/pt-br,1099,0,717
+1637813983493,876,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-274,,true,,820,113,58,58,https://www.gov.br/,876,0,637
+1637813988453,1099,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-246,,true,,820,113,58,58,https://www.gov.br/,1099,0,717
+1637813984369,13243,www.gov.com.br-1,200,OK,Grupo de Usuários 1-274,text,true,,168463,118,58,58,https://www.gov.br/pt-br,1222,0,0
+1637813989552,8060,www.gov.com.br-1,200,OK,Grupo de Usuários 1-246,text,true,,168463,118,58,58,https://www.gov.br/pt-br,334,0,0
+1637813993569,4075,www.gov.com.br,200,OK,Grupo de Usuários 1-92,text,true,,169236,231,56,56,https://www.gov.br/pt-br,591,0,458
+1637813993569,591,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-92,,true,,776,113,56,56,https://www.gov.br/,591,0,458
+1637813994160,3484,www.gov.com.br-1,200,OK,Grupo de Usuários 1-92,text,true,,168460,118,56,56,https://www.gov.br/pt-br,128,0,0
+1637813996227,1449,www.gov.com.br,200,OK,Grupo de Usuários 1-232,text,true,,169279,231,55,55,https://www.gov.br/pt-br,386,0,284
+1637813996227,386,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-232,,true,,819,113,55,55,https://www.gov.br/,386,0,284
+1637813996613,1063,www.gov.com.br-1,200,OK,Grupo de Usuários 1-232,text,true,,168460,118,55,55,https://www.gov.br/pt-br,99,0,0
+1637813995500,2187,www.gov.com.br,200,OK,Grupo de Usuários 1-128,text,true,,169283,231,54,54,https://www.gov.br/pt-br,363,0,255
+1637813995500,363,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-128,,true,,820,113,54,54,https://www.gov.br/,363,0,255
+1637813995863,1824,www.gov.com.br-1,200,OK,Grupo de Usuários 1-128,text,true,,168463,118,54,54,https://www.gov.br/pt-br,90,0,0
+1637813987458,10238,www.gov.com.br,200,OK,Grupo de Usuários 1-217,text,true,,169280,231,53,53,https://www.gov.br/pt-br,994,0,760
+1637813987458,994,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-217,,true,,818,113,53,53,https://www.gov.br/,994,0,760
+1637813988452,9244,www.gov.com.br-1,200,OK,Grupo de Usuários 1-217,text,true,,168462,118,53,53,https://www.gov.br/pt-br,1380,0,0
+1637813993324,4401,www.gov.com.br,200,OK,Grupo de Usuários 1-238,text,true,,169279,231,52,52,https://www.gov.br/pt-br,1553,0,1432
+1637813993324,1553,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-238,,true,,818,113,52,52,https://www.gov.br/,1553,0,1432
+1637813994877,2848,www.gov.com.br-1,200,OK,Grupo de Usuários 1-238,text,true,,168461,118,52,52,https://www.gov.br/pt-br,101,0,0
+1637813984327,13419,www.gov.com.br,200,OK,Grupo de Usuários 1-237,text,true,,169280,231,51,51,https://www.gov.br/pt-br,1352,0,881
+1637813984327,1352,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-237,,true,,818,113,51,51,https://www.gov.br/,1352,0,881
+1637813985680,12066,www.gov.com.br-1,200,OK,Grupo de Usuários 1-237,text,true,,168462,118,51,51,https://www.gov.br/pt-br,1999,0,0
+1637813989393,8359,www.gov.com.br,200,OK,Grupo de Usuários 1-233,text,true,,169282,231,50,50,https://www.gov.br/pt-br,3593,0,3419
+1637813989393,3593,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-233,,true,,820,113,50,50,https://www.gov.br/,3593,0,3419
+1637813992986,4766,www.gov.com.br-1,200,OK,Grupo de Usuários 1-233,text,true,,168462,118,50,50,https://www.gov.br/pt-br,602,0,0
+1637813992985,4805,www.gov.com.br,200,OK,Grupo de Usuários 1-140,text,true,,169276,231,49,49,https://www.gov.br/pt-br,2929,0,2846
+1637813992985,2929,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-140,,true,,818,113,49,49,https://www.gov.br/,2929,0,2846
+1637813995914,1876,www.gov.com.br-1,200,OK,Grupo de Usuários 1-140,text,true,,168458,118,49,49,https://www.gov.br/pt-br,301,0,0
+1637813992870,4924,www.gov.com.br,200,OK,Grupo de Usuários 1-20,text,true,,169283,231,48,48,https://www.gov.br/pt-br,3504,0,3405
+1637813992870,3504,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-20,,true,,820,113,48,48,https://www.gov.br/,3504,0,3405
+1637813996374,1420,www.gov.com.br-1,200,OK,Grupo de Usuários 1-20,text,true,,168463,118,48,48,https://www.gov.br/pt-br,205,0,0
+1637813990741,7073,www.gov.com.br,200,OK,Grupo de Usuários 1-162,text,true,,169281,231,47,47,https://www.gov.br/pt-br,2836,0,2179
+1637813990741,2836,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-162,,true,,820,113,47,47,https://www.gov.br/,2836,0,2179
+1637813993578,4236,www.gov.com.br-1,200,OK,Grupo de Usuários 1-162,text,true,,168461,118,47,47,https://www.gov.br/pt-br,308,0,0
+1637813990777,7044,www.gov.com.br,200,OK,Grupo de Usuários 1-252,text,true,,169275,231,46,46,https://www.gov.br/pt-br,3005,0,2850
+1637813990777,3005,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-252,,true,,818,113,46,46,https://www.gov.br/,3005,0,2850
+1637813993783,4038,www.gov.com.br-1,200,OK,Grupo de Usuários 1-252,text,true,,168457,118,46,46,https://www.gov.br/pt-br,444,0,0
+1637813990225,7614,www.gov.com.br,200,OK,Grupo de Usuários 1-157,text,true,,169275,231,45,45,https://www.gov.br/pt-br,3903,0,3770
+1637813988525,9314,www.gov.com.br,200,OK,Grupo de Usuários 1-121,text,true,,169275,231,45,45,https://www.gov.br/pt-br,1131,0,770
+1637813990225,3903,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-157,,true,,818,113,45,45,https://www.gov.br/,3903,0,3770
+1637813994129,3710,www.gov.com.br-1,200,OK,Grupo de Usuários 1-157,text,true,,168457,118,45,45,https://www.gov.br/pt-br,266,0,0
+1637813988525,1131,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-121,,true,,818,113,45,45,https://www.gov.br/,1131,0,770
+1637813989656,8183,www.gov.com.br-1,200,OK,Grupo de Usuários 1-121,text,true,,168457,118,45,45,https://www.gov.br/pt-br,355,0,0
+1637813992555,5285,www.gov.com.br,200,OK,Grupo de Usuários 1-116,text,true,,169281,231,44,44,https://www.gov.br/pt-br,1428,0,1272
+1637813992555,1428,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-116,,true,,818,113,44,44,https://www.gov.br/,1428,0,1272
+1637813993983,3857,www.gov.com.br-1,200,OK,Grupo de Usuários 1-116,text,true,,168463,118,44,44,https://www.gov.br/pt-br,1360,0,0
+1637813996337,1507,www.gov.com.br,200,OK,Grupo de Usuários 1-56,text,true,,169276,231,42,42,https://www.gov.br/pt-br,426,0,315
+1637813996337,426,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-56,,true,,818,113,42,42,https://www.gov.br/,426,0,315
+1637813996763,1081,www.gov.com.br-1,200,OK,Grupo de Usuários 1-56,text,true,,168458,118,42,42,https://www.gov.br/pt-br,101,0,0
+1637813989525,8398,www.gov.com.br,200,OK,Grupo de Usuários 1-236,text,true,,169280,231,41,41,https://www.gov.br/pt-br,1291,0,988
+1637813989525,1291,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-236,,true,,820,113,41,41,https://www.gov.br/,1291,0,988
+1637813990816,7107,www.gov.com.br-1,200,OK,Grupo de Usuários 1-236,text,true,,168460,118,41,41,https://www.gov.br/pt-br,282,0,0
+1637813990089,7853,www.gov.com.br,200,OK,Grupo de Usuários 1-93,text,true,,169275,231,40,40,https://www.gov.br/pt-br,1155,0,897
+1637813990089,1155,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-93,,true,,818,113,40,40,https://www.gov.br/,1155,0,897
+1637813991244,6698,www.gov.com.br-1,200,OK,Grupo de Usuários 1-93,text,true,,168457,118,40,40,https://www.gov.br/pt-br,1025,0,0
+1637813990772,7183,www.gov.com.br,200,OK,Grupo de Usuários 1-40,text,true,,169281,231,39,39,https://www.gov.br/pt-br,1112,0,851
+1637813986829,11126,www.gov.com.br,200,OK,Grupo de Usuários 1-173,text,true,,169278,231,39,39,https://www.gov.br/pt-br,1624,0,1391
+1637813996588,1367,www.gov.com.br,200,OK,Grupo de Usuários 1-208,text,true,,169282,231,39,39,https://www.gov.br/pt-br,402,0,315
+1637813996588,402,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-208,,true,,818,113,39,39,https://www.gov.br/,402,0,315
+1637813996990,965,www.gov.com.br-1,200,OK,Grupo de Usuários 1-208,text,true,,168464,118,39,39,https://www.gov.br/pt-br,77,0,0
+1637813990772,1112,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-40,,true,,818,113,39,39,https://www.gov.br/,1112,0,851
+1637813991884,6071,www.gov.com.br-1,200,OK,Grupo de Usuários 1-40,text,true,,168463,118,39,39,https://www.gov.br/pt-br,253,0,0
+1637813986829,1624,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-173,,true,,818,113,39,39,https://www.gov.br/,1624,0,1391
+1637813988453,9502,www.gov.com.br-1,200,OK,Grupo de Usuários 1-173,text,true,,168460,118,39,39,https://www.gov.br/pt-br,1580,0,0
+1637813989265,8691,www.gov.com.br,200,OK,Grupo de Usuários 1-164,text,true,,169278,231,39,39,https://www.gov.br/pt-br,1346,0,1053
+1637813989265,1346,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-164,,true,,820,113,39,39,https://www.gov.br/,1346,0,1053
+1637813990611,7345,www.gov.com.br-1,200,OK,Grupo de Usuários 1-164,text,true,,168458,118,39,39,https://www.gov.br/pt-br,277,0,0
+1637813991842,6114,www.gov.com.br,200,OK,Grupo de Usuários 1-109,text,true,,169283,231,39,39,https://www.gov.br/pt-br,880,0,691
+1637813991842,880,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-109,,true,,820,113,39,39,https://www.gov.br/,880,0,691
+1637813992722,5234,www.gov.com.br-1,200,OK,Grupo de Usuários 1-109,text,true,,168463,118,39,39,https://www.gov.br/pt-br,922,0,0
+1637813993062,4940,www.gov.com.br,200,OK,Grupo de Usuários 1-196,text,true,,169276,231,34,34,https://www.gov.br/pt-br,606,0,440
+1637813993062,606,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-196,,true,,818,113,34,34,https://www.gov.br/,606,0,440
+1637813993668,4334,www.gov.com.br-1,200,OK,Grupo de Usuários 1-196,text,true,,168458,118,34,34,https://www.gov.br/pt-br,1258,0,0
+1637813990611,7401,www.gov.com.br,200,OK,Grupo de Usuários 1-152,text,true,,169279,231,33,33,https://www.gov.br/pt-br,1118,0,828
+1637813990611,1118,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-152,,true,,816,113,33,33,https://www.gov.br/,1118,0,828
+1637813991729,6283,www.gov.com.br-1,200,OK,Grupo de Usuários 1-152,text,true,,168463,118,33,33,https://www.gov.br/pt-br,246,0,0
+1637813990649,7386,www.gov.com.br,200,OK,Grupo de Usuários 1-279,text,true,,169279,231,32,32,https://www.gov.br/pt-br,3327,0,3170
+1637813990649,3327,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-279,,true,,818,113,32,32,https://www.gov.br/,3327,0,3170
+1637813993976,4059,www.gov.com.br-1,200,OK,Grupo de Usuários 1-279,text,true,,168461,118,32,32,https://www.gov.br/pt-br,414,0,0
+1637813989734,8301,www.gov.com.br,200,OK,Grupo de Usuários 1-19,text,true,,169280,231,32,32,https://www.gov.br/pt-br,1952,0,1669
+1637813989734,1952,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-19,,true,,820,113,32,32,https://www.gov.br/,1952,0,1669
+1637813991686,6349,www.gov.com.br-1,200,OK,Grupo de Usuários 1-19,text,true,,168460,118,32,32,https://www.gov.br/pt-br,252,0,0
+1637813990301,7759,www.gov.com.br,200,OK,Grupo de Usuários 1-59,text,true,,169281,231,30,30,https://www.gov.br/pt-br,1139,0,873
+1637813990608,7452,www.gov.com.br,200,OK,Grupo de Usuários 1-135,text,true,,169283,231,30,30,https://www.gov.br/pt-br,1135,0,839
+1637813990301,1139,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-59,,true,,818,113,30,30,https://www.gov.br/,1139,0,873
+1637813990608,1135,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-135,,true,,820,113,30,30,https://www.gov.br/,1135,0,839
+1637813991440,6620,www.gov.com.br-1,200,OK,Grupo de Usuários 1-59,text,true,,168463,118,30,30,https://www.gov.br/pt-br,757,0,0
+1637813991743,6317,www.gov.com.br-1,200,OK,Grupo de Usuários 1-135,text,true,,168463,118,30,30,https://www.gov.br/pt-br,266,0,0
+1637813993654,4437,www.gov.com.br,200,OK,Grupo de Usuários 1-30,text,true,,169279,231,28,28,https://www.gov.br/pt-br,594,0,453
+1637813993654,594,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-30,,true,,818,113,28,28,https://www.gov.br/,594,0,453
+1637813994248,3843,www.gov.com.br-1,200,OK,Grupo de Usuários 1-30,text,true,,168461,118,28,28,https://www.gov.br/pt-br,467,0,0
+1637813996448,1690,www.gov.com.br,200,OK,Grupo de Usuários 1-32,text,true,,169243,231,27,27,https://www.gov.br/pt-br,867,0,813
+1637813996448,867,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-32,,true,,816,113,27,27,https://www.gov.br/,867,0,813
+1637813997316,822,www.gov.com.br-1,200,OK,Grupo de Usuários 1-32,text,true,,168427,118,27,27,https://www.gov.br/pt-br,182,0,0
+1637813987969,10185,www.gov.com.br,200,OK,Grupo de Usuários 1-100,text,true,,169279,231,26,26,https://www.gov.br/pt-br,2864,0,2588
+1637813987969,2864,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-100,,true,,818,113,26,26,https://www.gov.br/,2864,0,2588
+1637813990833,7321,www.gov.com.br-1,200,OK,Grupo de Usuários 1-100,text,true,,168461,118,26,26,https://www.gov.br/pt-br,528,0,0
+1637813993165,5006,www.gov.com.br,200,OK,Grupo de Usuários 1-3,text,true,,169278,231,25,25,https://www.gov.br/pt-br,3896,0,3823
+1637813993165,3896,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-3,,true,,818,113,25,25,https://www.gov.br/,3896,0,3823
+1637813997061,1110,www.gov.com.br-1,200,OK,Grupo de Usuários 1-3,text,true,,168460,118,25,25,https://www.gov.br/pt-br,389,0,0
+1637813996922,1250,www.gov.com.br,200,OK,Grupo de Usuários 1-190,text,true,,169278,231,24,24,https://www.gov.br/pt-br,322,0,229
+1637813996922,322,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-190,,true,,818,113,24,24,https://www.gov.br/,322,0,229
+1637813997245,927,www.gov.com.br-1,200,OK,Grupo de Usuários 1-190,text,true,,168460,118,24,24,https://www.gov.br/pt-br,239,0,0
+1637813990419,7774,www.gov.com.br,200,OK,Grupo de Usuários 1-174,text,true,,169278,231,23,23,https://www.gov.br/pt-br,1838,0,1613
+1637813990419,1838,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-174,,true,,820,113,23,23,https://www.gov.br/,1838,0,1613
+1637813992257,5936,www.gov.com.br-1,200,OK,Grupo de Usuários 1-174,text,true,,168458,118,23,23,https://www.gov.br/pt-br,220,0,0
+1637813990482,7731,www.gov.com.br,200,OK,Grupo de Usuários 1-151,text,true,,169281,231,22,22,https://www.gov.br/pt-br,1127,0,835
+1637813990482,1127,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-151,,true,,819,113,22,22,https://www.gov.br/,1127,0,835
+1637813991609,6604,www.gov.com.br-1,200,OK,Grupo de Usuários 1-151,text,true,,168462,118,22,22,https://www.gov.br/pt-br,254,0,0
+1637813990207,8010,www.gov.com.br,200,OK,Grupo de Usuários 1-201,text,true,,169276,231,21,21,https://www.gov.br/pt-br,1140,0,870
+1637813990207,1140,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-201,,true,,816,113,21,21,https://www.gov.br/,1140,0,870
+1637813991347,6870,www.gov.com.br-1,200,OK,Grupo de Usuários 1-201,text,true,,168460,118,21,21,https://www.gov.br/pt-br,788,0,0
+1637813976730,21562,www.correios.com.br,200,OK,Grupo de Usuários 1-118,text,true,,109496,122,20,20,https://www.correios.com.br/,5077,0,4319
+1637813986316,11976,www.gov.com.br,200,OK,Grupo de Usuários 1-282,text,true,,169274,231,20,20,https://www.gov.br/pt-br,965,0,718
+1637813987090,11202,www.gov.com.br,200,OK,Grupo de Usuários 1-187,text,true,,169279,231,20,20,https://www.gov.br/pt-br,1087,0,818
+1637813986316,965,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-282,,true,,816,113,20,20,https://www.gov.br/,965,0,718
+1637813987090,1087,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-187,,true,,819,113,20,20,https://www.gov.br/,1087,0,818
+1637813987281,11011,www.gov.com.br-1,200,OK,Grupo de Usuários 1-282,text,true,,168458,118,20,20,https://www.gov.br/pt-br,301,0,0
+1637813988177,10115,www.gov.com.br-1,200,OK,Grupo de Usuários 1-187,text,true,,168460,118,20,20,https://www.gov.br/pt-br,662,0,0
+1637813997243,1125,www.gov.com.br,200,OK,Grupo de Usuários 1-139,text,true,,169281,231,18,18,https://www.gov.br/pt-br,752,0,700
+1637813997243,752,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-139,,true,,820,113,18,18,https://www.gov.br/,752,0,700
+1637813997995,373,www.gov.com.br-1,200,OK,Grupo de Usuários 1-139,text,true,,168461,118,18,18,https://www.gov.br/pt-br,39,0,0
+1637813990408,7997,www.gov.com.br,200,OK,Grupo de Usuários 1-17,text,true,,169277,231,17,17,https://www.gov.br/pt-br,1622,0,1365
+1637813990408,1622,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-17,,true,,820,113,17,17,https://www.gov.br/,1622,0,1365
+1637813992030,6375,www.gov.com.br-1,200,OK,Grupo de Usuários 1-17,text,true,,168457,118,17,17,https://www.gov.br/pt-br,455,0,0
+1637813982402,16134,www.gov.com.br,200,OK,Grupo de Usuários 1-23,text,true,,169275,231,16,16,https://www.gov.br/pt-br,658,0,524
+1637813982402,658,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-23,,true,,818,113,16,16,https://www.gov.br/,658,0,524
+1637813983061,15475,www.gov.com.br-1,200,OK,Grupo de Usuários 1-23,text,true,,168457,118,16,16,https://www.gov.br/pt-br,284,0,0
+1637813985016,13550,www.gov.com.br,200,OK,Grupo de Usuários 1-209,text,true,,169281,231,15,15,https://www.gov.br/pt-br,2614,0,2311
+1637813985016,2614,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-209,,true,,818,113,15,15,https://www.gov.br/,2614,0,2311
+1637813987631,10935,www.gov.com.br-1,200,OK,Grupo de Usuários 1-209,text,true,,168463,118,15,15,https://www.gov.br/pt-br,518,0,0
+1637813988754,9812,www.gov.com.br,200,OK,Grupo de Usuários 1-88,text,true,,169283,231,15,15,https://www.gov.br/pt-br,1554,0,895
+1637813988754,1554,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-88,,true,,820,113,15,15,https://www.gov.br/,1554,0,895
+1637813990308,8258,www.gov.com.br-1,200,OK,Grupo de Usuários 1-88,text,true,,168463,118,15,15,https://www.gov.br/pt-br,287,0,0
+1637813998292,305,www.gov.com.br,200,OK,Grupo de Usuários 1-118,text,true,,169275,231,13,13,https://www.gov.br/pt-br,138,0,106
+1637813998292,138,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-118,,true,,818,113,13,13,https://www.gov.br/,138,0,106
+1637813998430,167,www.gov.com.br-1,200,OK,Grupo de Usuários 1-118,text,true,,168457,118,13,13,https://www.gov.br/pt-br,37,0,0
+1637813990763,7870,www.gov.com.br,200,OK,Grupo de Usuários 1-113,text,true,,169236,231,12,12,https://www.gov.br/pt-br,1105,0,856
+1637813990763,1105,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-113,,true,,776,113,12,12,https://www.gov.br/,1105,0,856
+1637813991868,6765,www.gov.com.br-1,200,OK,Grupo de Usuários 1-113,text,true,,168460,118,12,12,https://www.gov.br/pt-br,265,0,0
+1637813993769,4958,www.gov.com.br,200,OK,Grupo de Usuários 1-43,text,true,,169281,231,11,11,https://www.gov.br/pt-br,724,0,588
+1637813993769,724,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-43,,true,,818,113,11,11,https://www.gov.br/,724,0,588
+1637813994493,4234,www.gov.com.br-1,200,OK,Grupo de Usuários 1-43,text,true,,168463,118,11,11,https://www.gov.br/pt-br,211,0,0
+1637813993609,5121,www.gov.com.br,200,OK,Grupo de Usuários 1-54,text,true,,169233,231,10,10,https://www.gov.br/pt-br,1126,0,1022
+1637813993609,1126,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-54,,true,,776,113,10,10,https://www.gov.br/,1126,0,1022
+1637813994735,3995,www.gov.com.br-1,200,OK,Grupo de Usuários 1-54,text,true,,168457,118,10,10,https://www.gov.br/pt-br,118,0,0
+1637813976632,22132,www.correios.com.br,200,OK,Grupo de Usuários 1-79,text,true,,109496,122,9,9,https://www.correios.com.br/,18493,0,2395
+1637813988045,10753,www.gov.com.br,200,OK,Grupo de Usuários 1-103,text,true,,169276,231,9,9,https://www.gov.br/pt-br,3180,0,2921
+1637813988045,3180,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-103,,true,,819,113,9,9,https://www.gov.br/,3180,0,2921
+1637813991225,7573,www.gov.com.br-1,200,OK,Grupo de Usuários 1-103,text,true,,168457,118,9,9,https://www.gov.br/pt-br,557,0,0
+1637813987874,10924,www.gov.com.br,200,OK,Grupo de Usuários 1-149,text,true,,169278,231,9,9,https://www.gov.br/pt-br,1171,0,935
+1637813987874,1171,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-149,,true,,818,113,9,9,https://www.gov.br/,1171,0,935
+1637813989045,9753,www.gov.com.br-1,200,OK,Grupo de Usuários 1-149,text,true,,168460,118,9,9,https://www.gov.br/pt-br,686,0,0
+1637813996603,2216,www.gov.com.br,200,OK,Grupo de Usuários 1-287,text,true,,169277,231,7,7,https://www.gov.br/pt-br,1599,0,1568
+1637813996603,1599,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-287,,true,,819,113,7,7,https://www.gov.br/,1599,0,1568
+1637813998202,617,www.gov.com.br-1,200,OK,Grupo de Usuários 1-287,text,true,,168458,118,7,7,https://www.gov.br/pt-br,63,0,0
+1637813987090,11732,www.gov.com.br,200,OK,Grupo de Usuários 1-81,text,true,,169281,231,6,6,https://www.gov.br/pt-br,1087,0,823
+1637813987090,1087,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-81,,true,,820,113,6,6,https://www.gov.br/,1087,0,823
+1637813988177,10645,www.gov.com.br-1,200,OK,Grupo de Usuários 1-81,text,true,,168461,118,6,6,https://www.gov.br/pt-br,2795,0,0
+1637813977097,21794,www.correios.com.br,200,OK,Grupo de Usuários 1-241,text,true,,109496,122,5,5,https://www.correios.com.br/,3246,0,1546
+1637813985979,12984,www.gov.com.br,200,OK,Grupo de Usuários 1-177,text,true,,169283,231,5,5,https://www.gov.br/pt-br,923,0,690
+1637813985979,923,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-177,,true,,820,113,5,5,https://www.gov.br/,923,0,690
+1637813986903,12060,www.gov.com.br-1,200,OK,Grupo de Usuários 1-177,text,true,,168463,118,5,5,https://www.gov.br/pt-br,231,0,0
+1637813992756,6303,www.gov.com.br,200,OK,Grupo de Usuários 1-153,text,true,,169280,231,4,4,https://www.gov.br/pt-br,2038,0,1927
+1637813992756,2038,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-153,,true,,820,113,4,4,https://www.gov.br/,2038,0,1927
+1637813994794,4265,www.gov.com.br-1,200,OK,Grupo de Usuários 1-153,text,true,,168460,118,4,4,https://www.gov.br/pt-br,204,0,0
+1637813998765,342,www.gov.com.br,200,OK,Grupo de Usuários 1-79,text,true,,169279,231,3,3,https://www.gov.br/pt-br,142,0,109
+1637813998765,142,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-79,,true,,816,113,3,3,https://www.gov.br/,142,0,109
+1637813998907,200,www.gov.com.br-1,200,OK,Grupo de Usuários 1-79,text,true,,168463,118,3,3,https://www.gov.br/pt-br,32,0,0
+1637813998892,311,www.gov.com.br,200,OK,Grupo de Usuários 1-241,text,true,,169277,231,2,2,https://www.gov.br/pt-br,136,0,97
+1637813998892,136,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-241,,true,,820,113,2,2,https://www.gov.br/,136,0,97
+1637813999028,175,www.gov.com.br-1,200,OK,Grupo de Usuários 1-241,text,true,,168457,118,2,2,https://www.gov.br/pt-br,39,0,0
+1637813996710,2627,www.gov.com.br,200,OK,Grupo de Usuários 1-73,text,true,,169233,231,1,1,https://www.gov.br/pt-br,370,0,297
+1637813996710,370,www.gov.com.br-0,301,Moved Permanently,Grupo de Usuários 1-73,,true,,776,113,1,1,https://www.gov.br/,370,0,297
+1637813997080,2257,www.gov.com.br-1,200,OK,Grupo de Usuários 1-73,text,true,,168457,118,1,1,https://www.gov.br/pt-br,67,0,0
